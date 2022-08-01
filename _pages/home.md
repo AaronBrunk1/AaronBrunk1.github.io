@@ -3,9 +3,10 @@ title: "Home"
 permalink: /home/
 layout: single
 author_profile: true
+classes: wide
 ---
 
-I am a postdoctoral researcher at the Institute of Mathematics of the Johannes Gutenberg University in Mainz in the group of Maria Lukacova.
+I am a postdoctoral researcher at the [Institute of Mathematics](https://www.mathematik.uni-mainz.de/) of the Johannes Gutenberg University in Mainz in the group of [Maria Lukacova](https://www.numerik.mathematik.uni-mainz.de/prof-dr-maria-lukacova-medvidova/).
 
 * * *
 
