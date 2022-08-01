@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
-layout: tags
+title: "CV"
+permalink: /cv/
+layout: single
 author_profile: true
 ---

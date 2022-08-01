@@ -2,7 +2,7 @@
 excerpt_separator: "<!--more-->"
 title: "Home"
 permalink: /home/
-layout: page
+layout: single
 author_profile: true
 ---
 
