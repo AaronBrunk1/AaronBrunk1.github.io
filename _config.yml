@@ -17,8 +17,8 @@ title: Dr. Aaron Brunk
 email: abrunk@uni-mainz.de
 description: >- # this means to ignore newlines until "baseurl:"
   Analysis of PDEs, Numerical Analysis, Mathematical Modeling
-twitter_username: username
-github_username: username
+#twitter_username: username
+github_username: AaronBrunk1
 minimal_mistakes_skin: default
 search: true
 
@@ -27,8 +27,8 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
@@ -48,10 +48,9 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
+#  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -66,20 +65,20 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:abrunk@uni-mainz.de"
-
+    - label: "ORCID"  
+      icon: "ai-orcid"
+      url: "https://orcid.org/0000-0003-4987-2398"    
+    - label: "Google Scholar"  
+      icon: "google-scholar"
+      url: "https://scholar.google.com/citations?user=h5e5aTkAAAAJ&hl=de"
+    - label: "ArXiV"  
+      icon: "ai-arxiv"
+      url: "http://arxiv.org/a/brunk_a_1" 
+    - label: "ResearchGate"
+      icon: "fa-brands fa-researchgate"
+      url: "https://www.researchgate.net/profile/Aaron-Brunk"   
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"
@@ -88,9 +87,3 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
