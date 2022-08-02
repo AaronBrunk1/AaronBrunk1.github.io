@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Aaron Brunk"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/downloads/profile.jpeg"
   bio    : "Analysis of PDEs, Numerical Analysis, Mathematical Modeling."
   links:
     - label: "Website"
