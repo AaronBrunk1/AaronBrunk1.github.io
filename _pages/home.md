@@ -19,4 +19,4 @@ My research interests are:
 * Structure preserving space and time discretisations.
 * Rigouros error analysis using relative energy/entropy methods for discrete solutions.
 
-The system I typically study have blahblah
+The system I typically study are motivated from the fields of soft matter physics, fluid dynamics or material engineering.
