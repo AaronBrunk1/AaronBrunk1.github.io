@@ -79,6 +79,13 @@ author:
       url: "https://www.researchgate.net/profile/Aaron-Brunk"   
 
 defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
   # _pages
   - scope:
       path: "_pages"
