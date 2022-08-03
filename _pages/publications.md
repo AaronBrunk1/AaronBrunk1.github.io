@@ -73,4 +73,4 @@ Theses:
 * **Numerische Behandlung von zeitgebrochenen Diffusionsgleichungen**\
 Master's Thesis, Johannes Gutenberg University Mainz (2019)
 * **Mathematische Modellierung von Phosphorylierungssystemen**\
-Bachelor's Thesis, Johannes Gutenberg University Mainz (2027)
+Bachelor's Thesis, Johannes Gutenberg University Mainz (2017)
