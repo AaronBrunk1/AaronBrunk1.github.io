@@ -19,8 +19,8 @@ Work Experience:
 ------
 
 * 02/2022 -  Postdoctoral researcher at Johannes Gutenberg University Mainz
-* 10/2015 - 11/2017 Doctoral researcher at Johannes Gutenberg University Mainz
-* 10/2013 - 09/2015 Teaching student at Johannes Gutenberg University Mainz
+* 11/2017 - 01/2022 Doctoral researcher at Johannes Gutenberg University Mainz
+* 10/2013 - 10/2017 Teaching student at Johannes Gutenberg University Mainz
 
 Education:
 ------
