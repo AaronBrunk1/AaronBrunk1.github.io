@@ -14,11 +14,14 @@ Preprints:
 ==================
 * * *
 
+0. **On uniqueness and stable estimation of multiple parameters in the Cahn-Hilliard equation**\
+with Herbert Egger, Oliver Habrich\
+Links: [Preprint](https://arxiv.org/abs/2208.10201) 
 0. **Existence and weak-strong uniqueness for global weak solutions for the viscoelastic phase separation model in three space dimensions**\
 Links: [Preprint](https://arxiv.org/abs/2208.01374) 
 0. **Relative energy and weak-strong uniqueness of the two-phase viscoelastic phase separation model**\
 with Mária Lukácová-Medvidová\
-Links: [Preprint](https://arxiv.org/abs/2104.00589) 
+Links: [Preprint](https://arxiv.org/abs/2104.00589) (accepted in ZAMM)
 0. **Relative energy estimates for the Cahn-Hilliard equation with concentration dependent mobility**\
 with Herbert Egger, Oliver Habrich and Mária Lukácová-Medvidová\
 Links: [Preprint](https://arxiv.org/abs/2102.05704) 
