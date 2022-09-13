@@ -13,7 +13,7 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 Preprints:
 ==================
 * * *
-0. **A structure-preserving variational discretization scheme for the Cahn-Hilliard Navier-Stokes system **\
+0. **A structure-preserving variational discretization scheme for the Cahn-Hilliard Navier-Stokes system**\
 with Herbert Egger, Oliver Habrich and Mária Lukácová-Medvidová\
 Links: [Preprint](https://arxiv.org/abs/2209.03849) 
 0. **On uniqueness and stable estimation of multiple parameters in the Cahn-Hilliard equation**\
