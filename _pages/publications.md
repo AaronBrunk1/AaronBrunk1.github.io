@@ -33,7 +33,6 @@ Peer-Reviewed Articles:
 0. **Relative energy and weak-strong uniqueness of the two-phase viscoelastic phase separation model**\
 with Mária Lukácová-Medvidová\
 Zeitschrift für Angewandte Mathematik und Mechanik\
-(Journal of Applied Mathematics and Mechanics)\
 Links: [Preprint](https://arxiv.org/abs/2104.00589) & [Journal](https://doi.org/10.1002/zamm.202100240)
 0. **Global existence of weak solutions to viscoelastic phase separation: Part II Degenerate Case**\
 with Mária Lukácová-Medvidová\
