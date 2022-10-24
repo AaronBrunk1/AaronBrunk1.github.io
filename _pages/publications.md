@@ -77,6 +77,6 @@ Theses:
 * **Viscoelastic phase separation: Well-posedness and numerical analysis**\
   [PhD Dissertation](https://openscience.ub.uni-mainz.de/handle/20.500.12030/6777), Johannes Gutenberg University Mainz (2022)
 * **Numerische Behandlung von zeitgebrochenen Diffusionsgleichungen**\
-Master's Thesis, Johannes Gutenberg University Mainz (2019)
+Master's Thesis, Johannes Gutenberg University Mainz (2017)
 * **Mathematische Modellierung von Phosphorylierungssystemen**\
-Bachelor's Thesis, Johannes Gutenberg University Mainz (2017)
+Bachelor's Thesis, Johannes Gutenberg University Mainz (2015)
