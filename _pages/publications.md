@@ -15,7 +15,7 @@ Preprints:
 * * *
 
 0. **On existence, uniqueness and stability of solutions to Cahn-Hilliard/Allen-Cahn systems with cross-kinetic coupling**\
-with Herbert Egger, Timileyin David Oyedeji and Yang Yangyiwei and Bai-Xiang Xu\
+with Herbert Egger, Timileyin David Oyedeji, Yang Yangyiwei and Bai-Xiang Xu\
 Links: [Preprint](https://arxiv.org/abs/2211.07153) 
 0. **A structure-preserving variational discretization scheme for the Cahn-Hilliard Navier-Stokes system**\
 with Herbert Egger, Oliver Habrich and Mária Lukácová-Medvidová\
