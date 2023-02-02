@@ -33,7 +33,9 @@ Peer-Reviewed Articles:
 * * *
 
 0. **Existence and weak-strong uniqueness for global weak solutions for the viscoelastic phase separation model in three space dimensions**\
-Links: [Preprint](https://arxiv.org/abs/2208.01374) Accepted to Discrete and Continous Dynamical Systems (2022)
+ Discrete and Continuous Dynamical Systems (2023) \
+Links: [Preprint](https://arxiv.org/abs/2208.01374) & [Journal](https://www.aimsciences.org/article/doi/10.3934/dcds.2023004)
+
 0. **Relative energy and weak-strong uniqueness of the two-phase viscoelastic phase separation model**\
 with Mária Lukácová-Medvidová\
 Zeitschrift für Angewandte Mathematik und Mechanik (2022)\
