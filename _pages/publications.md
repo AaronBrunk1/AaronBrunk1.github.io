@@ -22,15 +22,16 @@ with Herbert Egger, Oliver Habrich and Mária Lukácová-Medvidová\
 Links: [Preprint](https://arxiv.org/abs/2209.03849) 
 0. **On uniqueness and stable estimation of multiple parameters in the Cahn-Hilliard equation**\
 with Herbert Egger, Oliver Habrich\
-Links: [Preprint](https://arxiv.org/abs/2208.10201) 
-0. **Relative energy estimates for the Cahn-Hilliard equation with concentration dependent mobility**\
-with Herbert Egger, Oliver Habrich and Mária Lukácová-Medvidová\
-Links: [Preprint](https://arxiv.org/abs/2102.05704) 
+Links: [Preprint](https://arxiv.org/abs/2208.10201) && [Journal](https://doi.org/10.1051/m2an/2023017)
+
 {: reversed="reversed"}
 
 Peer-Reviewed Articles:
 ==================
 * * *
+0. **Stability and discretization error analysis for the Cahn-Hilliard system via relative energy estimates**\
+with Herbert Egger, Oliver Habrich and Mária Lukácová-Medvidová\
+Links: [Preprint](https://arxiv.org/abs/2102.05704) 
 
 0. **Existence and weak-strong uniqueness for global weak solutions for the viscoelastic phase separation model in three space dimensions**\
  Discrete and Continuous Dynamical Systems (2023) \
