@@ -62,7 +62,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.numerik.mathematik.uni-mainz.de/aaron-brunk/"
-    - label: "Email"
+    - label: "University-Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:abrunk@uni-mainz.de"
     - label: "Email"
