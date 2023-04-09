@@ -14,21 +14,25 @@ Preprints:
 ==================
 * * *
 
+
 0. **On existence, uniqueness and stability of solutions to Cahn-Hilliard/Allen-Cahn systems with cross-kinetic coupling**\
 with Herbert Egger, Timileyin David Oyedeji, Yang Yangyiwei and Bai-Xiang Xu\
 Links: [Preprint](https://arxiv.org/abs/2211.07153) 
 0. **A structure-preserving variational discretization scheme for the Cahn-Hilliard Navier-Stokes system**\
 with Herbert Egger, Oliver Habrich and Mária Lukácová-Medvidová\
 Links: [Preprint](https://arxiv.org/abs/2209.03849) 
-0. **On uniqueness and stable estimation of multiple parameters in the Cahn-Hilliard equation**\
-with Herbert Egger, Oliver Habrich\
-Links: [Preprint](https://arxiv.org/abs/2208.10201) 
 
 {: reversed="reversed"}
 
 Peer-Reviewed Articles:
 ==================
 * * *
+
+
+0. **On uniqueness and stable estimation of multiple parameters in the Cahn-Hilliard equation**\
+with Herbert Egger, Oliver Habrich\
+Links: [Preprint](https://arxiv.org/abs/2208.10201) & [Journal](https://doi.org/10.1088/1361-6420/acca44)
+
 0. **Stability and discretization error analysis for the Cahn-Hilliard system via relative energy estimates**\
 with Herbert Egger, Oliver Habrich and Mária Lukácová-Medvidová\
 ESAIM: Mathematical Modelling and Numerical Analysis (2023)\
