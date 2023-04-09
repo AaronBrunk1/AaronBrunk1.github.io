@@ -31,6 +31,7 @@ Peer-Reviewed Articles:
 
 0. **On uniqueness and stable estimation of multiple parameters in the Cahn-Hilliard equation**\
 with Herbert Egger, Oliver Habrich\
+Inverse Probleme (2023)\
 Links: [Preprint](https://arxiv.org/abs/2208.10201) & [Journal](https://doi.org/10.1088/1361-6420/acca44)
 
 0. **Stability and discretization error analysis for the Cahn-Hilliard system via relative energy estimates**\
