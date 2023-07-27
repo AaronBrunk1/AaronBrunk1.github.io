@@ -10,9 +10,9 @@ Current projects:
 ==================
 * * *
 
-0. **Variational quantitative phase-field modeling and simulation of powder bed fusion additive manufacturing**\
-as principal investigator in cooperation with Bai-Xiang Xu; founded by the DFG via SPP2256
-
-0. **C3: Spinodal decomposition of polymer-solvent systems**\
-as postdoctoral researcher with Mária Lukácová-Medvidová and Burkhard Dünweg founded by the DFG via TRR146
-
+0. **SPP 2256: Variational Methods for Predicting Complex Phenomena in Engineering Structures and Materials**\
+Subproject 06: Variational quantitative phase-field modeling and simulation of powder bed fusion additive manufacturing (with B.-X. Xu, TU Darmstadt; DFG BR 7093/1-2)
+as principal intestigator
+0. **TRR146 C3: Spinodal decomposition of polymer-solvent systems**\
+Subproject C3: Spinodal decomposition of polymer-solvent systems with M. Lukácová-Medvidová and B. Dünweg
+as postdoctoral researcher
