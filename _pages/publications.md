@@ -13,8 +13,12 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 Preprints:
 ==================
 * * *
-
-
+0. **Fundamentals of the Oldroyd-B model revisited: Tensorial vs. vectorial theory**\
+with Joydip Chaudhuri, Mária Lukácová-Medvidová and Burkhard Duenweg\
+Links: [Preprint](https://arxiv.org/abs/2308.01326) 
+0. **	A second-order structure-preserving discretization for the Cahn-Hilliard/Allen-Cahn system with cross-kinetic coupling **\
+with Herbert Egger, Oliver Habrich\
+Links: [Preprint](https://arxiv.org/abs/2308.01638) 
 0. **On existence, uniqueness and stability of solutions to Cahn-Hilliard/Allen-Cahn systems with cross-kinetic coupling**\
 with Herbert Egger, Timileyin David Oyedeji, Yang Yangyiwei and Bai-Xiang Xu\
 Links: [Preprint](https://arxiv.org/abs/2211.07153) 
