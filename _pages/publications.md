@@ -14,7 +14,7 @@ Preprints:
 ==================
 * * *
 0. **Fundamentals of the Oldroyd-B model revisited: Tensorial vs. vectorial theory**\
-with Joydip Chaudhuri, Mária Lukácová-Medvidová and Burkhard Duenweg\
+with Joydip Chaudhuri, Burkhard Dünweg and Mária Lukácová-Medvidová\
 Links: [Preprint](https://arxiv.org/abs/2308.01326) 
 0. **A second-order structure-preserving discretization for the Cahn-Hilliard/Allen-Cahn system with cross-kinetic coupling **\
 with Herbert Egger, Oliver Habrich\
