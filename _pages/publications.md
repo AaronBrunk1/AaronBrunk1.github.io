@@ -31,7 +31,7 @@ Peer-Reviewed Articles:
 
 0. **A second-order fully-balanced structure-preserving variational discretization scheme for the Cahn-Hilliard Navier-Stokes system**\
 with Herbert Egger, Oliver Habrich and Mária Lukácová-Medvidová\
-M3AS (2023)
+M3AS (2023)\
 Links: [Preprint](https://arxiv.org/abs/2209.03849) 
 
 0. **On uniqueness and stable estimation of multiple parameters in the Cahn-Hilliard equation**\
