@@ -5,6 +5,10 @@ main:
     url: /publications/
   - title: "Projects"
     url: /projects/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Events and Visits"
+    url: /talks/
   - title: "CV"
     url: /cv/
   - title: "About"
