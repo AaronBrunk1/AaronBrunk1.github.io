@@ -6,17 +6,31 @@ author_profile: true
 classes: wide
 ---
 
+Bachelor and Master thesis:
+==================
+* * *
+
+
+0. Dennis Schumann master thesis on\
+*Grenzprozess von diffusiven zu scharfen Oberflächenmodellen: Analytische und numerische Betrachtung*\
+0. Garnik Arutyunyan master thesis on\
+ *Numerical simulation of non-Newtonian fluids*\
+0. Michelle Porth master thesis on\
+*Stability analysis of a hybrid continuum-kinetic model of complex fluids*\
+0. Janina Bender bachelor thesis on\
+ *Dreidimensionale Simulation von viskoelastischen Fluiden mit FreeFEM*\
+
+
+
 Winter term 2023/2024:
 ==================
 * * *
 
 
-Previous terms:
+Previous terms at JGU:
 ==================
 * * *
 
-0. 4 times **Assistant Basics in numerics**\
-0. **Assistant Mathematics for natural scientists**\
-0. **Sheet correction and teaching of group**\
-Subproject C3: Spinodal decomposition of polymer-solvent systems with M. Lukácová-Medvidová and B. Dünweg
-as postdoctoral researcher
+0. **Teaching assistant: Basics in numerics**\
+0. **Teaching assistent: Mathematics for natural scientists**\
+0. **Tutor for Liner Algebra, Numerics, Analysis**\

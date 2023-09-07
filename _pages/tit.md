@@ -8,5 +8,3 @@ classes: wide
 
 **Home**
 ==================
-
-test
