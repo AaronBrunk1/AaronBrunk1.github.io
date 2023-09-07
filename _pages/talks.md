@@ -1,5 +1,4 @@
 ---
-title: "Events and Visits"
 permalink: /talks/
 layout: single
 author_profile: true
