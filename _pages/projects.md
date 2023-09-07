@@ -5,7 +5,8 @@ layout: single
 author_profile: true
 classes: wide
 ---
-
+* * *
+* * *
 Current projects:
 ==================
 * * *
