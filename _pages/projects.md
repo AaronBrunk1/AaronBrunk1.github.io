@@ -7,6 +7,7 @@ classes: wide
 ---
 * * *
 * * *
+
 Current projects:
 ==================
 * * *
