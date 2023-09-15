@@ -25,9 +25,8 @@ Here are some previous events or vists which attended or organised.
 
 
 
-0. 04 - 09 September 2023; [Enumath23](https://enumath2023.com/) in Lisbon\
- Organisation of minisymposium MS10 and a talk
-0. 24-27, July 2023; Research visit with Herbert Egger in Linz
+0. 04 - 09 September 2023; [Enumath23](https://enumath2023.com/); Lisbon; Organisation of minisymposium & talk
+0. 24 - 27, July 2023; Research visit with Herbert Egger in Linz
 0. 26 - 30 June 2023; Scales Conference; Mainz; Talk
 0. 20 - 26 November 2022; Oberwolfach Seminar: Interfaces: Modeling, Analysis, Numerics by Bänsch, Deckelnick, Garcke, Pozzi; Oberwolfach
 0. 01 April; 35. Treffen Rhein-Main-Arbeitskreis "Mathematics of Computations"; Marburg; Invited Talk
@@ -35,13 +34,12 @@ Here are some previous events or vists which attended or organised.
 0. 15 - 19 March 2021; GAMM Annual Conference; Kassel; Talk
 0. 03 March 2021: Workshop: [Propagation of Uncertainty and Chaos in Multiscale Systems](https://www.cecam.org/workshop-details/995); Mainz; organised with F. Frommer
 0. 22 - 25 February 2021; Conference: Structures in Evolution: Theory and Applications; Berlin; Talk 
-0. 04 February; Oberseminar Numerik; Mainz; Invited talk
-0. 02 - 04 December; IRTG school session on Weak formulation, entropy-dissipation,gradient-flows, and Galerkin
+0. 04 February 2021; Oberseminar Numerik; Mainz; Invited talk
+0. 02 - 04 December 2020; IRTG school session on Weak formulation, entropy-dissipation,gradient-flows, and Galerkin
 approximation; Mainz; with H. Egger und O. Habrich
 0. 26 - 30 October 2020; Kick-Off Conference;Thematic Einstein Semester on Energy-based mathematical methods for reactive multiphase flows; Berlin
 0. 12 - 23 October 2020; Student Compact Course: Variational Methods For Fluids And Solids; Berlin
 0. 09 - 12 December 2019; School & Workshop: Challenges in Multiphase Flows; Monash University Prato Center, Prato; Poster
-0. 25 - 27 September 2019; Sino-German Workshop on Advanced Numerical Methods for Hyperbolic Balance Laws; Beijing\
-with a two weeks research stay in Beijing
+0. 25 - 27 September 2019; Sino-German Workshop on Advanced Numerical Methods for Hyperbolic Balance Laws; Beijing; with a two weeks research stay in Beijing
 0. 18 - 21 June 2019; MAFELAP, Brunel University London; Talk
 0. 01 - 05 October 2018; Fall School: Hyperbolic Conservation Laws and Mathematical Fluid Dynamics; Würzburg; Poster
