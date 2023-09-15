@@ -25,7 +25,7 @@ Here are some previous events or vists which attended or organised.
 
 
 
-0. 04 - 09 September 2023; [Enumath23](https://enumath2023.com/); Lisbon; Organisation of minisymposium & talk
+*. 04 - 09 September 2023; [Enumath23](https://enumath2023.com/); Lisbon; Organisation of minisymposium & talk
 0. 24 - 27, July 2023; Research visit with Herbert Egger in Linz
 0. 26 - 30 June 2023; Scales Conference; Mainz; Talk
 0. 20 - 26 November 2022; Oberwolfach Seminar: Interfaces: Modeling, Analysis, Numerics by Bänsch, Deckelnick, Garcke, Pozzi; Oberwolfach
