@@ -31,6 +31,6 @@ Previous terms at JGU:
 ==================
 * * *
 
-0. Teaching assistant: Basics in numerics\
-0. Teaching assistent: Mathematics for natural scientists\
-0. Tutor for Liner Algebra, Numerics, Analysis, Mathematics for physics II\
+0. Teaching assistant: Basics in numerics
+0. Teaching assistent: Mathematics for natural scientists
+0. Tutor for Liner Algebra, Numerics, Analysis, Mathematics for physics II
