@@ -24,7 +24,7 @@ Previous:
 Here are some previous events which I attended or organised and some research visits.
 
 
-
+<font size="1" >
 0. 04 - 09 September 2023; [Enumath23](https://enumath2023.com/); Lisbon; Organisation of minisymposium & talk
 0. 24 - 27, July 2023; Research visit with Herbert Egger in Linz
 0. 26 - 30 June 2023; Scales Conference; Mainz; Talk
@@ -48,3 +48,4 @@ approximation; Mainz; with H. Egger und O. Habrich
 0. 01 - 05 October 2018; Fall School: Hyperbolic Conservation Laws and Mathematical Fluid Dynamics; Würzburg; Poster
 0. 12 - 14 September 2018; Compact Seminar Numerics group JGU Mainz; Kaub; Talk
 0. 12 - 17 September 2017; Compact Seminar Numerics group JGU Mainz; Hirschegg; Talk
+</font >
