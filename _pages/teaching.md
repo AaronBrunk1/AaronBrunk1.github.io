@@ -1,10 +1,12 @@
 ---
-title: "Projects"
+title: "Teaching"
 permalink: /teaching/
 layout: single
 author_profile: true
 classes: wide
 ---
+
+
 
 Bachelor and Master thesis:
 ==================
