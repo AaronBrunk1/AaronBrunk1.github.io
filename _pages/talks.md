@@ -21,7 +21,7 @@ Here are some ucomping events or vists which I plan to attend.
 Previous:
 -----------------
 * * *
-Here are some previous events or vists which attended or organised.
+Here are some previous events which I attended or organised and some research visits.
 
 
 
