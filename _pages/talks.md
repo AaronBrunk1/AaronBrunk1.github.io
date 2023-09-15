@@ -25,7 +25,7 @@ Here are some previous events which I attended or organised and some research vi
 
 
 0. 04 - 09 September 2023; [Enumath23](https://enumath2023.com/); Lisbon; Organisation of minisymposium & talk
-0. 24 - 27, July 2023; Research visit with Herbert Egger in Linz
+0. 24 - 28, July 2023; Research visit with Herbert Egger in Linz
 0. 26 - 30 June 2023; Scales Conference; Mainz; Talk
 0. 20 - 26 November 2022; Oberwolfach Seminar: Interfaces: Modeling, Analysis, Numerics by Bänsch, Deckelnick, Garcke, Pozzi; Oberwolfach
 0. 12 - 14 September 2022; Compact Seminar Numerics group JGU Mainz; Bad Boll; organised with M. Lukacova
@@ -38,8 +38,8 @@ Here are some previous events which I attended or organised and some research vi
 0. 04 February 2021; Oberseminar Numerik; Mainz; Invited talk
 0. 02 - 04 December 2020; IRTG school session on Weak formulation, entropy-dissipation,gradient-flows, and Galerkin
 approximation; Mainz; with H. Egger und O. Habrich
-0. 26 - 30 October 2020; Kick-Off Conference;Thematic Einstein Semester on Energy-based mathematical methods for reactive multiphase flows; Berlin
-0. 12 - 23 October 2020; Student Compact Course: Variational Methods For Fluids And Solids; Berlin
+0. 26 - 30 October 2020; Kick-Off Conference; Thematic Einstein Semester on Energy-based mathematical methods for reactive multiphase flows; Berlin
+0. 12 - 23 October 2020; Student Compact Course: Variational Methods For Fluids And Solids; Berlin; Talk
 0. 09 - 12 December 2019; School & Workshop: Challenges in Multiphase Flows; Monash University Prato Center, Prato; Poster
 0. 25 - 27 September 2019; Sino-German Workshop on Advanced Numerical Methods for Hyperbolic Balance Laws; Beijing; with a two weeks research stay in Beijing
 0. 11 - 13 September 2018; Compact Seminar Numerics group JGU Mainz; Bad Münster am Stein; Talk
