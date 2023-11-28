@@ -19,9 +19,6 @@ Links: [Preprint](https://arxiv.org/abs/2308.01326)
 0. **A second-order structure-preserving discretization for the Cahn-Hilliard/Allen-Cahn system with cross-kinetic coupling**\
 with Herbert Egger, Oliver Habrich\
 Links: [Preprint](https://arxiv.org/abs/2308.01638) 
-0. **On existence, uniqueness and stability of solutions to Cahn-Hilliard/Allen-Cahn systems with cross-kinetic coupling**\
-with Herbert Egger, Timileyin David Oyedeji, Yang Yangyiwei and Bai-Xiang Xu\
-Links: [Preprint](https://arxiv.org/abs/2211.07153) 
 
 {: reversed="reversed"}
 
@@ -29,10 +26,15 @@ Peer-Reviewed Articles:
 ==================
 * * *
 
+0. **On existence, uniqueness and stability of solutions to Cahn-Hilliard/Allen-Cahn systems with cross-kinetic coupling**\
+with Herbert Egger, Timileyin David Oyedeji, Yang Yangyiwei and Bai-Xiang Xu\
+Nonlinear Analysis: Real World Applications (2023).
+Links: [Preprint](https://arxiv.org/abs/2211.07153) 
+
 0. **A second-order fully-balanced structure-preserving variational discretization scheme for the Cahn-Hilliard Navier-Stokes system**\
 with Herbert Egger, Oliver Habrich and Mária Lukácová-Medvidová\
 M3AS (2023)\
-Links: [Preprint](https://arxiv.org/abs/2209.03849) 
+Links: [Preprint](https://arxiv.org/abs/2209.03849) & [Journal](https://doi.org/10.1142/S0218202523500562) 
 
 0. **On uniqueness and stable estimation of multiple parameters in the Cahn-Hilliard equation**\
 with Herbert Egger, Oliver Habrich\
