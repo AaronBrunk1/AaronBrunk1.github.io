@@ -27,7 +27,7 @@ Peer-Reviewed Articles:
 * * *
 
 0. **On existence, uniqueness and stability of solutions to Cahn-Hilliard/Allen-Cahn systems with cross-kinetic coupling**\
-with Herbert Egger, Timileyin David Oyedeji, Yang Yangyiwei and Bai-Xiang Xu\
+with Herbert Egger, Timileyin David Oyedeji, Yangyiwei Yang and Bai-Xiang Xu\
 Nonlinear Analysis: Real World Applications (2023)\
 Links: [Preprint](https://arxiv.org/abs/2211.07153) 
 
