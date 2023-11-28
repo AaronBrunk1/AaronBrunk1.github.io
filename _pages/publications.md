@@ -28,7 +28,7 @@ Peer-Reviewed Articles:
 
 0. **On existence, uniqueness and stability of solutions to Cahn-Hilliard/Allen-Cahn systems with cross-kinetic coupling**\
 with Herbert Egger, Timileyin David Oyedeji, Yang Yangyiwei and Bai-Xiang Xu\
-Nonlinear Analysis: Real World Applications (2023).
+Nonlinear Analysis: Real World Applications (2023)\
 Links: [Preprint](https://arxiv.org/abs/2211.07153) 
 
 0. **A second-order fully-balanced structure-preserving variational discretization scheme for the Cahn-Hilliard Navier-Stokes system**\
