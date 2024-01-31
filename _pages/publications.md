@@ -13,6 +13,12 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 Preprints:
 ==================
 * * *
+0. **Structure-preserving approximation for the non-isothermal Cahn-Hilliard-Navier-Stokes system**\
+with Dennis Schumann\
+Links: [Preprint](https://arxiv.org/abs/2312.14566) 
+0. **Variational approximation for a non-isothermal coupled phase-field system: Structure-preservation & Nonlinear stability**\
+with Oliver Habrich, Timileyin David Oyedeji, Yangyiwei Yang, Bai-Xiang Xu\
+Links: [Preprint](https://arxiv.org/abs/2312.14566) 
 0. **Fundamentals of the Oldroyd-B model revisited: Tensorial vs. vectorial theory**\
 with Joydip Chaudhuri, Burkhard Dünweg and Mária Lukácová-Medvidová\
 Links: [Preprint](https://arxiv.org/abs/2308.01326) 
