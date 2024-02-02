@@ -15,7 +15,7 @@ Preprints:
 * * *
 0. **Structure-preserving approximation for the non-isothermal Cahn-Hilliard-Navier-Stokes system**\
 with Dennis Schumann\
-Links: [Preprint](https://arxiv.org/abs/2312.14566) 
+Links: [Preprint](https://arxiv.org/abs/2402.00147) 
 0. **Variational approximation for a non-isothermal coupled phase-field system: Structure-preservation & Nonlinear stability**\
 with Oliver Habrich, Timileyin David Oyedeji, Yangyiwei Yang, Bai-Xiang Xu\
 Links: [Preprint](https://arxiv.org/abs/2312.14566) 
