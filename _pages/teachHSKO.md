@@ -1,5 +1,5 @@
 ---
-title: "Modellierungspraktikum"
+title: "Hauptseminar: Konvexe Optimierung"
 permalink: /teaching/teachHSKO/
 layout: single
 author_profile: true
@@ -8,10 +8,8 @@ classes: wide
 
 
 
-Mathematical Fluid Dynamics:
-==================
 * * *
-1. Ort & Zeit: Dienstag und Donenrstagh 10-12 Uhr im Raum 05-426
+1. Ort & Zeit: Dienstag  12-14 Uhr im Raum 05-426
 
 2. Inhalte:
 Viele natürliche oder technische Prozesse führen zu Strömungen oder Phasenübergängen,
@@ -25,14 +23,7 @@ Im Rahmen der Projekte, die in kleinen Gruppen bearbeitet werden, möchten wir P
 Es handelt sich hier um den zweiten Teil des Vertiefungsmoduls “Wissenschaftliches Rechnen” in den mathematischen Masterstudiengängen.
 
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/sep.jpg)
-
-3. Vorkenntnisse:
-	0. Pflicht: Grundlagen der Numerik, Numerik gewöhnlicher Differentialgleichungen,
-    Numerik partieller Differentialgleichungen
-	0. Hilfreich, aber nicht notwendig: Funktionalanalysis, Variationsrechnung
-
-
+3. Voträge
 
 4. Literatur:
 
@@ -42,5 +33,3 @@ Es handelt sich hier um den zweiten Teil des Vertiefungsmoduls “Wissenschaftli
 	0. D. Xiu, Stochastic Collocation Methods: A Survey, In: Ghanem, R., Higdon, D., Owhadi,
     H.: Handbook of Uncertainty Quantification. Springer, Cham (2017)
 
-5. Prüfungsformat:
-   0. Wird in der ersten Vorlesung bekannt gegeben
