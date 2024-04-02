@@ -8,9 +8,11 @@ classes: wide
 
 
 
-1. Ort & Zeit: Dienstag 14-16 Uhr im Raum 05-426
+Ort & Zeit: 
+-------------------------
+Dienstag 14-16 Uhr im Raum 05-426
 
-2. Inhalte:
+Inhalte:
 -------------------------
 Im Rahmen dieser Vorlesung werden wir uns mit der mathematischen Modellierung der
 Strömungsmechanik und dessen analytischen Eigenschaften beschäftigen. Zunächst werden wir mit den Erhaltungssätzen der Thermodynamik, Erhaltung von Masse, Impuls
@@ -24,14 +26,14 @@ Falls am Ende der Vorlesung Zeit ist beschäftigen wir uns mit der Erweiterung a
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/flow.png)
 
-3. Vorkenntnisse:
+Vorkenntnisse:
 -------------------------
 	- Geeignet für B.Sc/ M.Sc Mathematik und M.Sc. Computational Science
 	- Pflicht: Analysis I-III und Grundlagen der Numerik
 	- Hilfreich aber nicht notwendig: Funktionalanalysis, partiellen Differentialgleichungen oder Numerik gewöhnlicher/partieller Differentialgleichungen
 
 
-4. Literatur:
+Literatur:
 -------------------------
 	- F. Boyer, P. Fabrie, Mathematical Tools for the Study of the Incompressible Navier-Stokes
 	Equations and Related Models Springer (2013).
@@ -39,7 +41,7 @@ Falls am Ende der Vorlesung Zeit ist beschäftigen wir uns mit der Erweiterung a
 	(1993).
 	- R. Temam, Navier-Stokes Equations: Theory and Numerical Analysis North-Holland (1977).
 
-5. Prüfungsformat:
+Prüfungsformat:
 -------------------------
    - Als Ergänzungsvorlesung ist der Prüfungsformat eine Vorlesung in LaTex zu setzen, sollten es zu viele Teilnehmer werden wird es zusätzlich auch Übungsaufgaben geben.
    - Als Prüfungsleistung für andere Studiengänge nach Absprache

@@ -11,11 +11,11 @@ classes: wide
 Mathematical Fluid Dynamics:
 ==================
 * * *
-1. Ort & Zeit: 
+Ort & Zeit: 
 -------------------------
 Dienstag und Donenrstag 10-12 Uhr im Raum 05-426
 
-2. Inhalte: 
+Inhalte: 
 -------------------------
 Viele natürliche oder technische Prozesse führen zu Strömungen oder Phasenübergängen,
 wie z.B. Mischung von Wasser und Öl oder dem Schmelzen von Metallen.
@@ -29,7 +29,7 @@ Es handelt sich hier um den zweiten Teil des Vertiefungsmoduls “Wissenschaftli
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/sep.jpg)
 
-3. Vorkenntnisse:
+Vorkenntnisse:
 -------------------------
 	- Pflicht: Grundlagen der Numerik, Numerik gewöhnlicher Differentialgleichungen,
     Numerik partieller Differentialgleichungen
@@ -37,7 +37,7 @@ Es handelt sich hier um den zweiten Teil des Vertiefungsmoduls “Wissenschaftli
 
 
 
-4. Literatur:
+Literatur:
 -------------------------
 	- H. Kielöfer, Variationsrechnung, Springer (2010)
 	- J. Shen, X. Yang, Numerical approximatons of Allen-Cahn and Cahn-Hilliard equations,
@@ -45,6 +45,6 @@ Es handelt sich hier um den zweiten Teil des Vertiefungsmoduls “Wissenschaftli
 	- D. Xiu, Stochastic Collocation Methods: A Survey, In: Ghanem, R., Higdon, D., Owhadi,
     H.: Handbook of Uncertainty Quantification. Springer, Cham (2017)
 
-5. Prüfungsformat:
+Prüfungsformat:
 -------------------------
    - Wird in der ersten Vorlesung bekannt gegeben
