@@ -9,7 +9,7 @@ classes: wide
 
 Ort & Zeit: 
 -------------------------
-Dienstag und Donenrstag 10-12 Uhr im Raum 05-426
+Dienstag und Donnerstag 10-12 Uhr im Raum 05-426
 
 Inhalte: 
 -------------------------
