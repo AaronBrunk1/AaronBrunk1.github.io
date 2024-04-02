@@ -13,7 +13,8 @@ Mathematical Fluid Dynamics:
 * * *
 1. Ort & Zeit: Dienstag und Donenrstag 10-12 Uhr im Raum 05-426
 
-2. Inhalte: * * *
+2. Inhalte: 
+
 Viele natürliche oder technische Prozesse führen zu Strömungen oder Phasenübergängen,
 wie z.B. Mischung von Wasser und Öl oder dem Schmelzen von Metallen.
 Das Ziel des diesjährigen Modellierungspraktikums ist es, solche Prozesse zu modellieren,

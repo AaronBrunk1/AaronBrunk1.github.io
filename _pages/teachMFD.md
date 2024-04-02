@@ -14,6 +14,7 @@ Mathematical Fluid Dynamics:
 1. Ort & Zeit: Dienstag 14-16 Uhr im Raum 05-426
 
 2. Inhalte:
+
 Im Rahmen dieser Vorlesung werden wir uns mit der mathematischen Modellierung der
 Strömungsmechanik und dessen analytischen Eigenschaften beschäftigen. Zunächst werden wir mit den Erhaltungssätzen der Thermodynamik, Erhaltung von Masse, Impuls
 und Energie, ein mathematisches Modell zur Beschreibung von kompressiblen und inkompressiblen Strömungen, hier die Navier-Stokes-Gleichungen, herleiten.
