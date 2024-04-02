@@ -11,10 +11,12 @@ classes: wide
 Mathematical Fluid Dynamics:
 ==================
 * * *
-1. Ort & Zeit: Dienstag und Donenrstag 10-12 Uhr im Raum 05-426
+1. Ort & Zeit: 
+-------------------------
+Dienstag und Donenrstag 10-12 Uhr im Raum 05-426
 
 2. Inhalte: 
-
+-------------------------
 Viele natürliche oder technische Prozesse führen zu Strömungen oder Phasenübergängen,
 wie z.B. Mischung von Wasser und Öl oder dem Schmelzen von Metallen.
 Das Ziel des diesjährigen Modellierungspraktikums ist es, solche Prozesse zu modellieren,
@@ -28,6 +30,7 @@ Es handelt sich hier um den zweiten Teil des Vertiefungsmoduls “Wissenschaftli
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/sep.jpg)
 
 3. Vorkenntnisse:
+-------------------------
 	- Pflicht: Grundlagen der Numerik, Numerik gewöhnlicher Differentialgleichungen,
     Numerik partieller Differentialgleichungen
 	- Hilfreich, aber nicht notwendig: Funktionalanalysis, Variationsrechnung
@@ -35,6 +38,7 @@ Es handelt sich hier um den zweiten Teil des Vertiefungsmoduls “Wissenschaftli
 
 
 4. Literatur:
+-------------------------
 	- H. Kielöfer, Variationsrechnung, Springer (2010)
 	- J. Shen, X. Yang, Numerical approximatons of Allen-Cahn and Cahn-Hilliard equations,
     Discrete and continous dynamical systems, 28(4) (2010)
@@ -42,4 +46,5 @@ Es handelt sich hier um den zweiten Teil des Vertiefungsmoduls “Wissenschaftli
     H.: Handbook of Uncertainty Quantification. Springer, Cham (2017)
 
 5. Prüfungsformat:
+-------------------------
    - Wird in der ersten Vorlesung bekannt gegeben
