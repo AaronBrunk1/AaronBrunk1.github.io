@@ -28,20 +28,20 @@ Falls am Ende der Vorlesung Zeit ist beschäftigen wir uns mit der Erweiterung a
 
 Vorkenntnisse:
 -------------------------
-	- Geeignet für B.Sc/ M.Sc Mathematik und M.Sc. Computational Science
-	- Pflicht: Analysis I-III und Grundlagen der Numerik
-	- Hilfreich aber nicht notwendig: Funktionalanalysis, partiellen Differentialgleichungen oder Numerik gewöhnlicher/partieller Differentialgleichungen
+- Geeignet für B.Sc/ M.Sc Mathematik und M.Sc. Computational Science
+- Pflicht: Analysis I-III und Grundlagen der Numerik
+- Hilfreich aber nicht notwendig: Funktionalanalysis, partiellen Differentialgleichungen oder Numerik gewöhnlicher/partieller Differentialgleichungen
 
 
 Literatur:
 -------------------------
-	- F. Boyer, P. Fabrie, Mathematical Tools for the Study of the Incompressible Navier-Stokes
+- F. Boyer, P. Fabrie, Mathematical Tools for the Study of the Incompressible Navier-Stokes
 	Equations and Related Models Springer (2013).
-	- M. Feistauer, Mathematical Methods in Fluid Dynamics,Longman Scientific & Technical
+- M. Feistauer, Mathematical Methods in Fluid Dynamics,Longman Scientific & Technical
 	(1993).
-	- R. Temam, Navier-Stokes Equations: Theory and Numerical Analysis North-Holland (1977).
+- R. Temam, Navier-Stokes Equations: Theory and Numerical Analysis North-Holland (1977).
 
 Prüfungsformat:
 -------------------------
-   - Als Ergänzungsvorlesung ist der Prüfungsformat eine Vorlesung in LaTex zu setzen, sollten es zu viele Teilnehmer werden wird es zusätzlich auch Übungsaufgaben geben.
-   - Als Prüfungsleistung für andere Studiengänge nach Absprache
+- Als Ergänzungsvorlesung ist der Prüfungsformat eine Vorlesung in LaTex zu setzen, sollten es zu viele Teilnehmer werden wird es zusätzlich auch Übungsaufgaben geben.
+- Als Prüfungsleistung für andere Studiengänge nach Absprache
