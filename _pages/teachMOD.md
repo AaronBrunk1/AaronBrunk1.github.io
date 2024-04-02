@@ -36,10 +36,8 @@ Vorkenntnisse:
 Literatur:
 -------------------------
 - H. Kielöfer, Variationsrechnung, Springer (2010)
-- J. Shen, X. Yang, Numerical approximatons of Allen-Cahn and Cahn-Hilliard equations,
-    Discrete and continous dynamical systems, 28(4) (2010)
-- D. Xiu, Stochastic Collocation Methods: A Survey, In: Ghanem, R., Higdon, D., Owhadi,
-    H.: Handbook of Uncertainty Quantification. Springer, Cham (2017)
+- J. Shen, X. Yang, Numerical approximatons of Allen-Cahn and Cahn-Hilliard equations,  Discrete and continous dynamical systems, 28(4) (2010)
+- D. Xiu, Stochastic Collocation Methods: A Survey, In: Ghanem, R., Higdon, D., Owhadi, H.: Handbook of Uncertainty Quantification. Springer, Cham (2017)
 
 Prüfungsformat:
 -------------------------
