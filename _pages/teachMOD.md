@@ -1,6 +1,6 @@
 ---
 title: "Modellierungspraktikum"
-permalink: /teaching/teachMOD
+permalink: /teaching/teachMOD/
 layout: single
 author_profile: true
 classes: wide

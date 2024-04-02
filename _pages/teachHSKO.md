@@ -1,6 +1,6 @@
 ---
 title: "Modellierungspraktikum"
-permalink: /teaching/teachHSKO
+permalink: /teaching/teachHSKO/
 layout: single
 author_profile: true
 classes: wide

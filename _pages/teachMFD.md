@@ -1,6 +1,6 @@
 ---
 title: "Mathematical Fluid Dynamics"
-permalink: /teaching/teachMFD
+permalink: /teaching/teachMFD/
 layout: single
 author_profile: true
 classes: wide
