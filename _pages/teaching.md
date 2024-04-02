@@ -11,7 +11,7 @@ classes: wide
 Summer term 2023/2024:
 ==================
 * * *
-0. [Mathematical Fluid Dynamics](https://aaronbrunk1.github.io/teaching/teachMFO/)
+0. [Mathematical Fluid Dynamics](https://aaronbrunk1.github.io/teaching/teachMFD/)
 0. [Modellierungspraktikum](https://aaronbrunk1.github.io/teaching/teachMOD/)
 0. [Hauptseminar: Konvexe Optimierung ](https://aaronbrunk1.github.io/teaching/teachHSKO/)
 
