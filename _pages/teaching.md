@@ -8,6 +8,23 @@ classes: wide
 
 
 
+Summer term 2023/2024:
+==================
+* * *
+0. [Mathematical Fluid Dynamics](https://aaronbrunk1.github.io/teaching/teachMFO)
+0. [Modellierungspraktikum](https://aaronbrunk1.github.io/teaching/teachMOD)
+0. [Hauptseminar: Konvexe Optimierung ](https://aaronbrunk1.github.io/teaching/teachHSKO)
+
+Previous terms at JGU:
+==================
+* * *
+
+0. Teaching assistant: Basics in numerics
+0. Teaching assistent: Mathematics for natural scientists
+0. Tutor for Liner Algebra, Numerics, Analysis, Mathematics for physics II
+
+
+
 Bachelor and Master thesis:
 ==================
 * * *
@@ -21,20 +38,3 @@ So far I inoffically supervised the following works:
 **Stability analysis of a hybrid continuum-kinetic model of complex fluids**
 0. Janina Bender bachelor thesis on\
  **Dreidimensionale Simulation von viskoelastischen Fluiden mit FreeFEM**
-
-
-
-Summer term 2023/2024:
-==================
-* * *
-1. Mathematical Fluid Dynamics
-2. Modellierungspraktikum:
-3. Hauptseminar: Konvexe Optimierung
-
-Previous terms at JGU:
-==================
-* * *
-
-0. Teaching assistant: Basics in numerics
-0. Teaching assistent: Mathematics for natural scientists
-0. Tutor for Liner Algebra, Numerics, Analysis, Mathematics for physics II
