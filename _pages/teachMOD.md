@@ -1,5 +1,6 @@
 ---
-title: "Modellierungspraktikum"
+title: "Modellierungspraktikum: Strömungen und
+Phasenübergänge mit Parameterunsicherheit"
 permalink: /teaching/teachMOD/
 layout: single
 author_profile: true
