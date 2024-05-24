@@ -13,6 +13,9 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 Preprints:
 ==================
 * * *
+0. **Nonisothermal Cahn-Hilliard Navier-Stokes system**\
+with Dennis Schumann\
+Links: [Preprint](https://arxiv.org/abs/2405.13936) 
 0. **Structure-preserving approximation for the non-isothermal Cahn-Hilliard-Navier-Stokes system**\
 with Dennis Schumann\
 Links: [Preprint](https://arxiv.org/abs/2402.00147) 
