@@ -9,16 +9,15 @@ classes: wide
 Most of my preprints can be found on [arXiv.org](http://arxiv.org/a/brunk_a_1) and [ResearchGate](https://www.researchgate.net/profile/Aaron-Brunk). 
 My articles can also be tracked on [Google Scholar](https://scholar.google.com/citations?user=h5e5aTkAAAAJ&hl=de) and [ORCID](https://orcid.org/0000-0003-4987-2398).
 
-
 Preprints:
 ==================
 * * *
+0. **Error analysis for a viscoelastic phase separation model**\
+with Dennis Schumann\
+Links: [Preprint](https://arxiv.org/abs/2407.01803) 
 0. **Nonisothermal Cahn-Hilliard Navier-Stokes system**\
 with Dennis Schumann\
 Links: [Preprint](https://arxiv.org/abs/2405.13936) 
-0. **Structure-preserving approximation for the non-isothermal Cahn-Hilliard-Navier-Stokes system**\
-with Dennis Schumann\
-Links: [Preprint](https://arxiv.org/abs/2402.00147) 
 0. **Variational approximation for a non-isothermal coupled phase-field system: Structure-preservation & Nonlinear stability**\
 with Oliver Habrich, Timileyin David Oyedeji, Yangyiwei Yang, Bai-Xiang Xu\
 Links: [Preprint](https://arxiv.org/abs/2312.14566) 
@@ -34,6 +33,11 @@ Links: [Preprint](https://arxiv.org/abs/2308.01638)
 Peer-Reviewed Articles:
 ==================
 * * *
+
+0. **Structure-preserving approximation for the non-isothermal Cahn-Hilliard-Navier-Stokes system**\
+with Dennis Schumann\
+Numerical Mathematics and Advanced Applications ENUMATH 2023
+Links: [Preprint](https://arxiv.org/abs/2402.00147) (accepted)
 
 0. **On existence, uniqueness and stability of solutions to Cahn-Hilliard/Allen-Cahn systems with cross-kinetic coupling**\
 with Herbert Egger, Timileyin David Oyedeji, Yangyiwei Yang and Bai-Xiang Xu\
