@@ -13,7 +13,7 @@ Preprints:
 ==================
 * * *
 0. **Error analysis for a viscoelastic phase separation model**\
-with Dennis Schumann\
+with Herbert Egger, Oliver Habrich, Mária Lukácová-Medvidová\
 Links: [Preprint](https://arxiv.org/abs/2407.01803) 
 0. **Nonisothermal Cahn-Hilliard Navier-Stokes system**\
 with Dennis Schumann\
