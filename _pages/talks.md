@@ -14,15 +14,15 @@ Upcomping:
 Here are some upcomping events or vists which I plan to attend.
 
 0. 24 - 26 September 2024; Annual Meetinf of the SPP2256 in Regensburg
-0. 30 September - 02 October 2024; Multiscale simulations of soft matter IV
-0. 09 – 13 September 2024; Numdiff 17 2024 in Halle
+0. 30 September - 02 October 2024; Multiscale simulations of soft matter IV in Darmstadt
+0. 09 – 13 September 2024; Numdiff 17 in Halle
 
 Previous:
 -----------------
 * * *
 Here are some previous events which I attended or organised and some research visits.
 0. 13 June 2024; Seminar talk at TU Darmstadt
-0. 18 - 22 March 2024; GAMM 2024; invited talk in SPP2256 minisymposium
+0. 18 - 22 March 2024; GAMM 2024 in Magdeburg; invited talk in SPP2256 minisymposium
 0. 13 - 17 November 2023; Research visit with Herbert Egger in Linz
 0. 16 - 18 October 2023; [Compact seminar](https://www.numerik.mathematik.uni-mainz.de/kompaktseminar-numerik-2023/) Numerics group JGU Mainz in Cochem
 0. 27 - 29 September 2023; [SPP2256 annual meeting](https://spp2256.ur.de/events/annual-meetings/annual-meeting-2023) in Regensburg
