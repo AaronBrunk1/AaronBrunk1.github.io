@@ -12,6 +12,9 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 Preprints:
 ==================
 * * *
+0. **Structure-preserving approximation of the Cahn-Hilliard-Biot system**\
+with Marvin Fritz\
+Links: [Preprint](https://arxiv.org/abs/2407.12349) 
 0. **Error analysis for a viscoelastic phase separation model**\
 with Herbert Egger, Oliver Habrich, Mária Lukácová-Medvidová\
 Links: [Preprint](https://arxiv.org/abs/2407.01803) 
@@ -36,7 +39,7 @@ Peer-Reviewed Articles:
 
 0. **Structure-preserving approximation for the non-isothermal Cahn-Hilliard-Navier-Stokes system**\
 with Dennis Schumann\
-Numerical Mathematics and Advanced Applications ENUMATH 2023
+Numerical Mathematics and Advanced Applications ENUMATH 2023 (2024)\
 Links: [Preprint](https://arxiv.org/abs/2402.00147) (accepted)
 
 0. **On existence, uniqueness and stability of solutions to Cahn-Hilliard/Allen-Cahn systems with cross-kinetic coupling**\
