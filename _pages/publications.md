@@ -39,7 +39,7 @@ Peer-Reviewed Articles:
 
 0. **Variational approximation for a non-isothermal coupled phase-field system: Structure-preservation & Nonlinear stability**\
 with Oliver Habrich, Timileyin David Oyedeji, Yangyiwei Yang, Bai-Xiang Xu\
-Computational Methods in Applied Mathematics (2024)
+Computational Methods in Applied Mathematics (2024)\
 Links: [Preprint](https://arxiv.org/abs/2312.14566) (accepted)
 
 0. **Structure-preserving approximation for the non-isothermal Cahn-Hilliard-Navier-Stokes system**\
