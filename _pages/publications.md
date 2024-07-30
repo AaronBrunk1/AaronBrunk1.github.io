@@ -21,9 +21,9 @@ Links: [Preprint](https://arxiv.org/abs/2407.01803)
 0. **Nonisothermal Cahn-Hilliard Navier-Stokes system**\
 with Dennis Schumann\
 Links: [Preprint](https://arxiv.org/abs/2405.13936) 
-0. **Variational approximation for a non-isothermal coupled phase-field system: Structure-preservation & Nonlinear stability**\
-with Oliver Habrich, Timileyin David Oyedeji, Yangyiwei Yang, Bai-Xiang Xu\
-Links: [Preprint](https://arxiv.org/abs/2312.14566) 
+0. **Robust a posteriori error control for the Allen-Cahn equation with variable mobility**\
+with Jan Giesselmann and Mária Lukácová-Medvidová \
+Links: [Preprint](https://arxiv.org/abs/2403.08898) 
 0. **Fundamentals of the Oldroyd-B model revisited: Tensorial vs. vectorial theory**\
 with Joydip Chaudhuri, Burkhard Dünweg and Mária Lukácová-Medvidová\
 Links: [Preprint](https://arxiv.org/abs/2308.01326) 
@@ -36,6 +36,11 @@ Links: [Preprint](https://arxiv.org/abs/2308.01638)
 Peer-Reviewed Articles:
 ==================
 * * *
+
+0. **Variational approximation for a non-isothermal coupled phase-field system: Structure-preservation & Nonlinear stability**\
+with Oliver Habrich, Timileyin David Oyedeji, Yangyiwei Yang, Bai-Xiang Xu\
+Computational Methods in Applied Mathematics (2024)
+Links: [Preprint](https://arxiv.org/abs/2312.14566) (accepted)
 
 0. **Structure-preserving approximation for the non-isothermal Cahn-Hilliard-Navier-Stokes system**\
 with Dennis Schumann\
