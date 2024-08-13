@@ -37,7 +37,7 @@ Peer-Reviewed Articles:
 0. **A second-order structure-preserving discretization for the Cahn-Hilliard/Allen-Cahn system with cross-kinetic coupling**\
 with Herbert Egger, Oliver Habrich\
 Applied Numerical Mathematics (2024)\
-Links: [Preprint](https://arxiv.org/abs/2308.01638) (accepted)
+Links: [Preprint](https://arxiv.org/abs/2308.01638) & [Journal](https://doi.org/10.1016/j.apnum.2024.07.016)
 
 0. **Variational approximation for a non-isothermal coupled phase-field system: Structure-preservation & Nonlinear stability**\
 with Oliver Habrich, Timileyin David Oyedeji, Yangyiwei Yang, Bai-Xiang Xu\
