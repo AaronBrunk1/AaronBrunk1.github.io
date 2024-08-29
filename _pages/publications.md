@@ -18,9 +18,6 @@ Links: [Preprint](https://arxiv.org/abs/2407.12349)
 0. **Error analysis for a viscoelastic phase separation model**\
 with Herbert Egger, Oliver Habrich, Mária Lukácová-Medvidová\
 Links: [Preprint](https://arxiv.org/abs/2407.01803) 
-0. **Nonisothermal Cahn-Hilliard Navier-Stokes system**\
-with Dennis Schumann\
-Links: [Preprint](https://arxiv.org/abs/2405.13936) 
 0. **Robust a posteriori error control for the Allen-Cahn equation with variable mobility**\
 with Jan Giesselmann and Mária Lukácová-Medvidová \
 Links: [Preprint](https://arxiv.org/abs/2403.08898) 
@@ -33,6 +30,11 @@ Links: [Preprint](https://arxiv.org/abs/2308.01326)
 Peer-Reviewed Articles:
 ==================
 * * *
+
+0. **Nonisothermal Cahn-Hilliard Navier-Stokes system**\
+with Dennis Schumann\
+Proceedings in Applied Mathematics and Mechanics
+Links: [Preprint](https://arxiv.org/abs/2405.13936) (accepted)
 
 0. **A second-order structure-preserving discretization for the Cahn-Hilliard/Allen-Cahn system with cross-kinetic coupling**\
 with Herbert Egger, Oliver Habrich\
