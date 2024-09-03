@@ -44,7 +44,7 @@ Links: [Preprint](https://arxiv.org/abs/2308.01638) & [Journal](https://doi.org/
 0. **Variational approximation for a non-isothermal coupled phase-field system: Structure-preservation & Nonlinear stability**\
 with Oliver Habrich, Timileyin David Oyedeji, Yangyiwei Yang, Bai-Xiang Xu\
 Computational Methods in Applied Mathematics (2024)\
-Links: [Preprint](https://arxiv.org/abs/2312.14566) (accepted)
+Links: [Preprint](https://arxiv.org/abs/2312.14566) & [Journal](https://doi.org/10.1515/cmam-2023-0274)
 
 0. **Structure-preserving approximation for the non-isothermal Cahn-Hilliard-Navier-Stokes system**\
 with Dennis Schumann\
