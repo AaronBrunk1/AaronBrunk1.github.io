@@ -33,7 +33,7 @@ Peer-Reviewed Articles:
 
 0. **Nonisothermal Cahn-Hilliard Navier-Stokes system**\
 with Dennis Schumann\
-Proceedings in Applied Mathematics and Mechanics
+Proceedings in Applied Mathematics and Mechanics\
 Links: [Preprint](https://arxiv.org/abs/2405.13936) (accepted)
 
 0. **A second-order structure-preserving discretization for the Cahn-Hilliard/Allen-Cahn system with cross-kinetic coupling**\
