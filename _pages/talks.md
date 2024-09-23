@@ -8,19 +8,20 @@ classes: wide
 * * *
 * * *
 
-Upcomping:
-------------------
+Where we possibly could meet:
+==================
 * * *
 Here are some upcomping events or vists which I plan to attend.
 
-0. 24 - 26 September 2024; Annual Meetinf of the SPP2256 in Regensburg
+0. 03-07 March 2025; SIAM Conference on Computational Science and Engineering (CSE25) in Forth Worth Texas
 0. 30 September - 02 October 2024; Multiscale simulations of soft matter IV in Darmstadt
-0. 09 – 13 September 2024; Numdiff 17 in Halle
+0. 24 - 26 September 2024; Annual Meeting of the SPP2256 in Regensburg
 
-Previous:
------------------
+Where we could have met:
+==================
 * * *
 Here are some previous events which I attended or organised and some research visits.
+0. 09 – 13 September 2024; Numdiff 17 in Halle
 0. 13 June 2024; Seminar talk at TU Darmstadt
 0. 18 - 22 March 2024; GAMM 2024 in Magdeburg; invited talk in SPP2256 minisymposium
 0. 13 - 17 November 2023; Research visit with Herbert Egger in Linz
