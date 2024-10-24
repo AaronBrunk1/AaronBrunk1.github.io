@@ -12,9 +12,6 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 Preprints:
 ==================
 * * *
-0. **Structure-preserving approximation of the Cahn-Hilliard-Biot system**\
-with Marvin Fritz\
-Links: [Preprint](https://arxiv.org/abs/2407.12349) 
 0. **Error analysis for a viscoelastic phase separation model**\
 with Herbert Egger, Oliver Habrich, Mária Lukácová-Medvidová\
 Links: [Preprint](https://arxiv.org/abs/2407.01803) 
@@ -30,6 +27,11 @@ Links: [Preprint](https://arxiv.org/abs/2308.01326)
 Peer-Reviewed Articles:
 ==================
 * * *
+
+0. **Structure-preserving approximation of the Cahn-Hilliard-Biot system**\
+with Marvin Fritz\
+Numerical Methods for Partial Differential Equations (2024)\
+Links: [Preprint](https://arxiv.org/abs/2407.12349) & [Journal](https://arxiv.org/abs/2407.12349)
 
 0. **Nonisothermal Cahn-Hilliard Navier-Stokes system**\
 with Dennis Schumann\
