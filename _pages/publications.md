@@ -12,6 +12,9 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 Preprints:
 ==================
 * * *
+0. **Analysis and discretization of the Ohta-Kawasaki equation with forcing and degenerate mobility**\
+with Marvin Fritz\
+Links: [Preprint](https://arxiv.org/abs/2411.09498) 
 0. **Error analysis for a viscoelastic phase separation model**\
 with Herbert Egger, Oliver Habrich, Mária Lukácová-Medvidová\
 Links: [Preprint](https://arxiv.org/abs/2407.01803) 
