@@ -34,7 +34,7 @@ Peer-Reviewed Articles:
 0. **Structure-preserving approximation of the Cahn-Hilliard-Biot system**\
 with Marvin Fritz\
 Numerical Methods for Partial Differential Equations (2024)\
-Links: [Preprint](https://arxiv.org/abs/2407.12349) & [Journal](https://arxiv.org/abs/2407.12349)
+Links: [Preprint](https://arxiv.org/abs/2407.12349) & [Journal](https://doi.org/10.1002/num.23159)
 
 0. **Nonisothermal Cahn-Hilliard Navier-Stokes system**\
 with Dennis Schumann\
