@@ -12,14 +12,16 @@ Where we possibly could meet:
 ==================
 * * *
 Here are some upcomping events or vists which I plan to attend.
-
-- 03-07 March 2025; SIAM Conference on Computational Science and Engineering (CSE25) in Forth Worth Texas
-- 30 September - 02 October 2024; Multiscale simulations of soft matter IV in Darmstadt
-- 24 - 26 September 2024; Annual Meeting of the SPP2256 in Regensburg
+- 24-27 June 2025; [The 30th Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk/) at University of Strathclyde, Glasgow
+- 01 - 05 September 2025; [Enumath25](https://enumath2025.eu/); Lisbon; Organisation of minisymposium & talk
+- xx - xx September 2024; Annual Meeting of the SPP2256 in Augsburg
 
 Where we could have met:
 ==================
 * * *
+- 03-07 March 2025; SIAM Conference on Computational Science and Engineering [(CSE25)](https://www.siam.org/conferences-events/past-event-archive/cse25/) in Forth Worth Texas
+- 30 September - 02 October 2024; Multiscale simulations of soft matter IV in Darmstadt
+- 24 - 26 September 2024; Annual Meeting of the SPP2256 in Regensburg
 Here are some previous events which I attended and some research visits.
 - 09 – 13 September 2024; Numdiff 17 in Halle; Talk in minisymposium
 - 13 June 2024; Seminar talk at TU Darmstadt
