@@ -12,6 +12,9 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 Preprints:
 ==================
 * * *
+0. **A simple, fully-discrete, unconditionally energy-stable method for the two-phase Navier-Stokes Cahn-Hilliard model with arbitrary density ratios**\
+with Marco F. P. ten Eikelder\
+Links: [Preprint](https://arxiv.org/abs/2504.00688) 
 0. **Analysis and discretization of the Ohta-Kawasaki equation with forcing and degenerate mobility**\
 with Marvin Fritz\
 Links: [Preprint](https://arxiv.org/abs/2411.09498) 
