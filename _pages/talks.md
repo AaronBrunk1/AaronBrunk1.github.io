@@ -12,6 +12,7 @@ Where we possibly could meet:
 ==================
 * * *
 Here are some upcomping events or vists which I plan to attend.
+- 24 - 25 April 2025; Research visit Regensburg and IntComSin Colloquium Talk
 - 24 - 27 June 2025; [The 30th Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk/) at University of Strathclyde, Glasgow
 - 01 - 05 September 2025; [Enumath25](https://enumath2025.eu/); Lisbon; Organisation of minisymposium & talk
 - xx - xx September 2024; Annual Meeting of the SPP2256 in Augsburg
