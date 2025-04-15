@@ -34,9 +34,7 @@ Links: [Preprint](https://arxiv.org/abs/2411.09498)
 0. **Error analysis for a viscoelastic phase separation model**\
 with Herbert Egger, Oliver Habrich, Mária Lukácová-Medvidová\
 Links: [Preprint](https://arxiv.org/abs/2407.01803) 
-0. **Robust a posteriori error control for the Allen-Cahn equation with variable mobility**\
-with Jan Giesselmann and Mária Lukácová-Medvidová \
-Links: [Preprint](https://arxiv.org/abs/2403.08898) 
+
 0. **Fundamentals of the Oldroyd-B model revisited: Tensorial vs. vectorial theory**\
 with Joydip Chaudhuri, Burkhard Dünweg and Mária Lukácová-Medvidová\
 Links: [Preprint](https://arxiv.org/abs/2308.01326) 
@@ -46,6 +44,10 @@ Links: [Preprint](https://arxiv.org/abs/2308.01326)
 Peer-Reviewed Articles:
 ==================
 * * *
+0. **Robust a posteriori error control for the Allen-Cahn equation with variable mobility**\
+with Jan Giesselmann and Mária Lukácová-Medvidová \
+SIAM Journal on Numerical Analysis (2025, accepted)
+Links: [Preprint](https://arxiv.org/abs/2403.08898) 
 
 0. **Structure-preserving approximation of the Cahn-Hilliard-Biot system**\
 with Marvin Fritz\
