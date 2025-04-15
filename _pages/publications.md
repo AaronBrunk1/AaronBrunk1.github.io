@@ -12,16 +12,16 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 Current projects/drafts (only on request):
 ==================
 * * *
-0. **Existence of discrete solutions and optimal errors estimates for quasi-incompressible Navier–Stokes–Maxwell–Stefan systems**\
-0. **Structure-preserving approximations for viscoelastic systems with phase-field dependent energy**\
-0. **Modeling and structure-preserving discretization of N-phase incompressible fluid mixtures with arbitrary density ratios**\
-0. **Structure-preserving approximation for non-isothermal phase-field models in melt flow**\
+0. **Existence of discrete solutions and optimal errors estimates for quasi-incompressible Navier–Stokes–Maxwell–Stefan systems**
+0. **Structure-preserving approximations for viscoelastic systems with phase-field dependent energy**
+0. **Modeling and structure-preserving discretization of N-phase incompressible fluid mixtures with arbitrary density ratios**
+0. **Structure-preserving approximation for non-isothermal phase-field models in melt flow**
 
 Preprints:
 ==================
 * * *
 0. **A structure-preserving numerical method for quasi-incompressible Navier–Stokes–Maxwell–Stefan systems**\
-with Ansgar Jüngel, Mária Lukácová-Medvidová\
+with Ansgar Jüngel, Mária Lukácová-Medvidová
 0. **Analysis and structure-preserving approximation of a Cahn-Hilliard-Forchheimer system with solution-dependent mass and volume source**\
 with Marvin Fritz\
 Links: [Preprint](https://arxiv.org/abs/2411.09498)
