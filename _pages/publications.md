@@ -17,6 +17,7 @@ Current projects/drafts (only on request):
 0. **Modeling and structure-preserving discretization of N-phase incompressible fluid mixtures with arbitrary density ratios**
 0. **Structure-preserving approximation for non-isothermal phase-field models in melt flow**
 
+
 Preprints:
 ==================
 * * *
@@ -46,7 +47,7 @@ Peer-Reviewed Articles:
 * * *
 0. **Robust a posteriori error control for the Allen-Cahn equation with variable mobility**\
 with Jan Giesselmann and Mária Lukácová-Medvidová \
-SIAM Journal on Numerical Analysis (2025, accepted)
+SIAM Journal on Numerical Analysis (2025, accepted)\
 Links: [Preprint](https://arxiv.org/abs/2403.08898) 
 
 0. **Structure-preserving approximation of the Cahn-Hilliard-Biot system**\
