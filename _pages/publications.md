@@ -22,7 +22,8 @@ Preprints:
 ==================
 * * *
 0. **A structure-preserving numerical method for quasi-incompressible Navier–Stokes–Maxwell–Stefan systems**\
-with Ansgar Jüngel, Mária Lukácová-Medvidová
+with Ansgar Jüngel, Mária Lukácová-Medvidová\
+Links: [Preprint]https://arxiv.org/abs/2504.11892
 0. **Analysis and structure-preserving approximation of a Cahn-Hilliard-Forchheimer system with solution-dependent mass and volume source**\
 with Marvin Fritz\
 Links: [Preprint](https://arxiv.org/abs/2411.09498)
