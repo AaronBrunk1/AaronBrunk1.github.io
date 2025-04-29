@@ -26,7 +26,7 @@ with Ansgar Jüngel, Mária Lukácová-Medvidová\
 Links: [Preprint](https://arxiv.org/abs/2504.11892)
 0. **Analysis and structure-preserving approximation of a Cahn-Hilliard-Forchheimer system with solution-dependent mass and volume source**\
 with Marvin Fritz\
-Links: [Preprint](https://arxiv.org/abs/2411.09498)
+Links: [Preprint](https://arxiv.org/abs/2504.09739)
 0. **A simple, fully-discrete, unconditionally energy-stable method for the two-phase Navier-Stokes Cahn-Hilliard model with arbitrary density ratios**\
 with Marco F. P. ten Eikelder\
 Links: [Preprint](https://arxiv.org/abs/2504.00688) 
