@@ -12,6 +12,9 @@ Current projects:
 ==================
 * * *
 
+0. **MULTIMIX - Multiphase Mixture Models: Bridging Theory, Numerics, and Applications**\
+RMU-Initiativfonds Forschung with M. ten Eikelder , TU Darmstadt
+as principal investigator
 0. **[SPP 2256: Variational Methods for Predicting Complex Phenomena in Engineering Structures and Materials](https://spp2256.ur.de/)**\
 Subproject 06: Variational quantitative phase-field modeling and simulation of powder bed fusion additive manufacturing (with B.-X. Xu, TU Darmstadt; DFG BR 7093/1-2)
 as principal investigator

@@ -6,30 +6,47 @@ author_profile: true
 classes: wide
 ---
 
-
-
-Summer term 2023/2024:
+Winter term 2025/2026 at FAU:
 ==================
 * * *
-0. [Mathematical Fluid Dynamics](https://aaronbrunk1.github.io/teaching/teachMFD/)
-0. [Modellierungspraktikum](https://aaronbrunk1.github.io/teaching/teachMOD/)
-0. [Hauptseminar: Konvexe Optimierung ](https://aaronbrunk1.github.io/teaching/teachHSKO/)
+0. Vorlesung: Grundlagen der partiellen Differentialgleichungen (4SWS)
+0. Seminar nicht-vertiefendes Lehramt (2SWS)
+
+Summer term 2025 at JGU:
+==================
+* * *
+0. Vorlesung: Mathematik für Informatiker 2a (4SWS)
+0. Hauptseminar: The Bregman divergence and its applications in (numerical) analysis of PDEs (2SWS)
+
+Summer term 2024 at JGU:
+==================
+* * *
+0. Vorlesung: Mathematical Fluid Dynamics (2SWS)
+0. Vorlesung + Praktikum: Modellierungspraktikum (4SWS)
+0. Hauptseminar: Konvexe Optimierung (2SWS) 
 
 Previous terms at JGU:
 ==================
 * * *
-
-0. Teaching assistant: Basics in numerics
+0. Teaching assistant: Introduction into numerics
 0. Teaching assistent: Mathematics for natural scientists
 0. Tutor for Liner Algebra, Numerics, Analysis, Mathematics for physics II
 
 
 
-Bachelor and Master thesis:
+Bachelor/Master/PhD thesis:
 ==================
 * * *
-So far I inoffically supervised the following works:
+Current:
+0. Dennis Schumann PhD thesis on\
+**Structure-preserving approximations for phase-field models in powder bed fusion additive manufacturing**
+0. Paula Schäfer master thesis on\
+**Strukturerhaltende Methoden für N-Phasen Cahn-Hilliard-Navier-Stokes-Systeme**
+0. Simon Schömer master thesis on\
+**Linear implizite und energiestabile Finite-Volumen-Methoden für die kompressiblen Navier-Stokes-Gleichunge**
 
+
+Previous:
 0. Dennis Schumann master thesis on\
 **Grenzprozess von diffusiven zu scharfen Oberflächenmodellen: Analytische und numerische Betrachtung**
 0. Garnik Arutyunyan master thesis on\

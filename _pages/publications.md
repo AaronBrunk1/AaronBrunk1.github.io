@@ -16,7 +16,10 @@ Current projects/drafts (only on request):
 0. **Structure-preserving approximations for viscoelastic systems with phase-field dependent energy**
 0. **Modeling and structure-preserving discretization of N-phase incompressible fluid mixtures with arbitrary density ratios**
 0. **Structure-preserving approximation for non-isothermal phase-field models in melt flow**
-
+0. **Error estimate for a stable FV scheme for compressible Navier-Stokes**
+0. **Error estimate for stable FV scheme for cross-diffusion systems**
+0. **Existence and weak-strong uniqueness for non-isothermal phase-field systems**
+0. **A posteriori existence of strong solutions for the Navier-Stokes equation in 3D**
 
 Preprints:
 ==================
