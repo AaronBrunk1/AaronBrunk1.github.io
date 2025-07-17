@@ -50,23 +50,19 @@ Links: [Preprint](https://arxiv.org/abs/2308.01326)
 
 {: reversed="reversed"}
 
-Peer-Reviewed Articles:
+Peer-Reviewed Journal Articles:
 ==================
 * * *
 0. **Robust a posteriori error control for the Allen-Cahn equation with variable mobility**\
 with Jan Giesselmann and Mária Lukácová-Medvidová \
-SIAM Journal on Numerical Analysis (2025, accepted)\
-Links: [Preprint](https://arxiv.org/abs/2403.08898) 
+SIAM Journal on Numerical Analysis (2025)\
+Links: [Preprint](https://arxiv.org/abs/2403.08898) & [Journal](https://epubs.siam.org/doi/full/10.1137/24M1646406)
 
 0. **Structure-preserving approximation of the Cahn-Hilliard-Biot system**\
 with Marvin Fritz\
 Numerical Methods for Partial Differential Equations (2024)\
 Links: [Preprint](https://arxiv.org/abs/2407.12349) & [Journal](https://doi.org/10.1002/num.23159)
 
-0. **Nonisothermal Cahn-Hilliard Navier-Stokes system**\
-with Dennis Schumann\
-Proceedings in Applied Mathematics and Mechanics (2024)\
-Links: [Preprint](https://arxiv.org/abs/2405.13936) & [Journal](https://doi.org/10.1002/pamm.202400060)
 
 0. **A second-order structure-preserving discretization for the Cahn-Hilliard/Allen-Cahn system with cross-kinetic coupling**\
 with Herbert Egger, Oliver Habrich\
@@ -78,10 +74,6 @@ with Oliver Habrich, Timileyin David Oyedeji, Yangyiwei Yang, Bai-Xiang Xu\
 Computational Methods in Applied Mathematics (2024)\
 Links: [Preprint](https://arxiv.org/abs/2312.14566) & [Journal](https://doi.org/10.1515/cmam-2023-0274)
 
-0. **Structure-preserving approximation for the non-isothermal Cahn-Hilliard-Navier-Stokes system**\
-with Dennis Schumann\
-Numerical Mathematics and Advanced Applications ENUMATH 2023 (2024)\
-Links: [Preprint](https://arxiv.org/abs/2402.00147) (accepted)
 
 0. **On existence, uniqueness and stability of solutions to Cahn-Hilliard/Allen-Cahn systems with cross-kinetic coupling**\
 with Herbert Egger, Timileyin David Oyedeji, Yangyiwei Yang and Bai-Xiang Xu\
@@ -147,12 +139,26 @@ with Nikolas Sfakianakis\
 Bulletin of Mathematical Biology (2018)\
 Links: [Preprint](https://arxiv.org/abs/1801.09247) & [Journal](https://link.springer.com/article/10.1007/s11538-018-0460-0)
 
+
+
+
+Peer-Reviewed Proceedings Articles:
+
+0. **Structure-preserving approximation for the non-isothermal Cahn-Hilliard-Navier-Stokes system**\
+with Dennis Schumann\
+Numerical Mathematics and Advanced Applications ENUMATH 2023 (2025)\
+Links: [Preprint](https://arxiv.org/abs/2402.00147) & [Journal]( https://doi.org/10.1007/978-3-031-86173-4_19)
+
+0. **Nonisothermal Cahn-Hilliard Navier-Stokes system**\
+with Dennis Schumann\
+Proceedings in Applied Mathematics and Mechanics (2024)\
+Links: [Preprint](https://arxiv.org/abs/2405.13936) & [Journal](https://doi.org/10.1002/pamm.202400060)
+
 0. **Chemotaxis and Haptotaxis on Cellular Level**\
 with Niklas Kolbe and Nikolas Sfakianakis\
 HYP 16: Theory, Numerics and Applications of Hyperbolic Problem I (2018)\
 Links: [Preprint](https://arxiv.org/abs/2102.00771) & [Journal](https://doi.org/10.1007/978-3-319-91545-6_20)
 {: reversed="reversed"}
-
 
 Theses:
 ==================
