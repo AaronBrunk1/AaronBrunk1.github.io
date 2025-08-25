@@ -27,7 +27,6 @@ Preprints:
 0. **Structure-preserving approximation of the non-isothermal Cahn-Hilliard system**\
 with Mária Lukácová-Medvidová, Dennis Schumann\
 Links: [Preprint](https://arxiv.org/abs/2506.23933)
-
 0. **A structure-preserving numerical method for quasi-incompressible Navier–Stokes–Maxwell–Stefan systems**\
 with Ansgar Jüngel, Mária Lukácová-Medvidová\
 Links: [Preprint](https://arxiv.org/abs/2504.11892)
@@ -44,7 +43,7 @@ Links: [Preprint](https://arxiv.org/abs/2411.09498)
 with Joydip Chaudhuri, Burkhard Dünweg and Mária Lukácová-Medvidová\
 Links: [Preprint](https://arxiv.org/abs/2308.01326) 
 
-{: reversed="reversed"}
+#{: reversed="reversed"}
 
 Peer-Reviewed Journal Articles:
 ==================
