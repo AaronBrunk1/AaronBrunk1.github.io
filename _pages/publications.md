@@ -42,8 +42,7 @@ Links: [Preprint](https://arxiv.org/abs/2411.09498)
 0. **Fundamentals of the Oldroyd-B model revisited: Tensorial vs. vectorial theory**\
 with Joydip Chaudhuri, Burkhard Dünweg and Mária Lukácová-Medvidová\
 Links: [Preprint](https://arxiv.org/abs/2308.01326) 
-
-#{: reversed="reversed"}
+{: reversed="reversed"}
 
 Peer-Reviewed Journal Articles:
 ==================
@@ -139,7 +138,7 @@ Links: [Preprint](https://arxiv.org/abs/1809.07852) & [Journal](https://biomath.
 with Nikolas Sfakianakis\
 Bulletin of Mathematical Biology (2018)\
 Links: [Preprint](https://arxiv.org/abs/1801.09247) & [Journal](https://link.springer.com/article/10.1007/s11538-018-0460-0)
-
+{: reversed="reversed"}
 
 
 
