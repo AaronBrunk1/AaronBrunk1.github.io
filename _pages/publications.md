@@ -50,8 +50,8 @@ Peer-Reviewed Journal Articles:
 
 0. **Error analysis for a viscoelastic phase separation model**\
 with Herbert Egger, Oliver Habrich, Mária Lukácová-Medvidová\
-Numerische Mathematik (2025) accepted
-Links: [Preprint](https://arxiv.org/abs/2407.01803) 
+Numerische Mathematik (2025)\
+Links: [Preprint](https://arxiv.org/abs/2407.01803)  & [Journal](https://doi.org/10.1007/s00211-025-01488-1)
 
 0. **Robust a posteriori error control for the Allen-Cahn equation with variable mobility**\
 with Jan Giesselmann and Mária Lukácová-Medvidová \
