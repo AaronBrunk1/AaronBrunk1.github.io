@@ -172,6 +172,7 @@ Current projects/drafts (only on request):
 0. **Modeling and structure-preserving discretization of N-phase incompressible fluid mixtures with arbitrary density ratios** with Marco ten Eikelder, TU Darmstadt
 0. **Modeling and stable discretisations for Maxwell–Stefan  with quasi-incompressible, heat conducting fluids** with Patrick Farrell and Mária Lukácová-Medvidová, Oxford/JGU Mainz
 0. **Existence and weak-strong uniqueness for non-isothermal phase-field systems** with Marvin Fritz, RICAM
+0. **Energy-stable H^2 conforming discretisations for the Cahn-Hilliard equation with variable mobility** with Marvin Fritz, RICAM
 
 
 To-Do list (if you are interested just let me know): 
