@@ -12,14 +12,25 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 Current projects/drafts (only on request):
 ==================
 * * *
-0. **Existence of discrete solutions and optimal errors estimates for quasi-incompressible Navier–Stokes–Maxwell–Stefan systems**
-0. **Structure-preserving approximations for viscoelastic systems with phase-field dependent energy**
-0. **Modeling and structure-preserving discretization of N-phase incompressible fluid mixtures with arbitrary density ratios**
-0. **Structure-preserving approximation for non-isothermal phase-field models in melt flow**
+0. **A posteriori existence of strong solutions for the Navier-Stokes equation in 3D** with Jan Giesselmann and Tabea Tscherpel, TU Darmstadt
+0. **Existence of discrete solutions and optimal errors estimates for quasi-incompressible Navier–Stokes–Maxwell–Stefan systems** with Ansgar Jüngel and Mária Lukácová-Medvidová, Tu Vienna/JGU Mainz
+0. **Structure-preserving approximations for viscoelastic systems with phase-field dependent energy** with Dennis Trautwein, University Regensburg
+0. **Structure-preserving approximation for non-isothermal phase-field models in melt flow** with Dennis Schumann, JGU Mainz
+0. **Modeling and structure-preserving discretization of N-phase incompressible fluid mixtures with arbitrary density ratios** with Marco ten Eikelder, TU Darmstadt
+0. **Modeling and stable discretisations for Maxwell–Stefan  with quasi-incompressible, heat conducting fluids** with Patrick Farrell and Mária Lukácová-Medvidová, Oxford/JGU Mainz
+0. **Existence and weak-strong uniqueness for non-isothermal phase-field systems** with Marvin Fritz, RICAM
+
+
+To-Do list: 
+==================
+* * *
+0. **Relative energy estimates for non-isothermal phase-field systems including fluid flow**
+0. **Error estimates for an energy-stable FE discretisation for the Abels-Garcke-Grün model**
+0. **Comparison between the Abels-Garcke-Grün model and the quasi-incompressible Navier-Stokes-Cahn-Hilliard system**
 0. **Error estimate for a stable FV scheme for compressible Navier-Stokes**
 0. **Error estimate for stable FV scheme for cross-diffusion systems**
-0. **Existence and weak-strong uniqueness for non-isothermal phase-field systems**
-0. **A posteriori existence of strong solutions for the Navier-Stokes equation in 3D**
+0. **Stable approximations for non-isothermal viscoelastic rate-type fluids with stress diffusion**
+
 
 Preprints:
 ==================
