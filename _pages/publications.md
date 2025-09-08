@@ -37,7 +37,7 @@ Peer-Reviewed Journal Articles:
 ==================
 * * *
 
-0. **Error analysis for a viscoelastic phase separation model**\
+0. **Error analysis for a second order approximation of a viscoelastic phase separation model**\
 with Herbert Egger, Oliver Habrich, Mária Lukácová-Medvidová\
 Numerische Mathematik (2025)\
 Links: [Preprint](https://arxiv.org/abs/2407.01803)  & [Journal](https://doi.org/10.1007/s00211-025-01488-1)
