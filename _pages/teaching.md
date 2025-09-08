@@ -10,7 +10,6 @@ Winter term 2025/2026 at FAU:
 ==================
 * * *
 0. Vorlesung: Grundlagen der partiellen Differentialgleichungen (4SWS)
-0. Seminar nicht-vertiefendes Lehramt (2SWS)
 
 Summer term 2025 at JGU:
 ==================
