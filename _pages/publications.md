@@ -17,8 +17,8 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 
 |:------:|:------:|
 | [Preprints](#preprints)        | [Peer-Reviewed Journal Articles](#peer-reviewed-journal-articles)  
-| [Peer-Reviewed Proceedings Articles](#peer-reviewed-proceedings-articles)   | [Theses:](#theses)      |
-| [Current projects/drafts](#current-projectsdrafts)       | [To-Do list](#to-do-list)   |
+| [Peer-Reviewed Proceedings Articles](#peer-reviewed-proceedings-articles)   | [Theses](#theses)      |
+| [Current projects/drafts](#current-projectsdrafts)       | [To-Do List](#to-do-list)   |
 
 
 
