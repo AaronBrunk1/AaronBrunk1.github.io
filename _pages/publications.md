@@ -18,7 +18,7 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 [To-Do list](#to-do-list)
 
 
-## Preprints:
+# Preprints:
 * * *
 0. **Structure-preserving approximation of the non-isothermal Cahn-Hilliard system**\
 with Mária Lukácová-Medvidová, Dennis Schumann\
@@ -40,7 +40,7 @@ with Joydip Chaudhuri, Burkhard Dünweg and Mária Lukácová-Medvidová\
 Links: [Preprint](https://arxiv.org/abs/2308.01326) 
 {: reversed="reversed"}
 
-## Peer-Reviewed Journal Articles:
+# Peer-Reviewed Journal Articles:
 * * *
 
 0. **Error analysis for a second order approximation of a viscoelastic phase separation model**\
@@ -137,7 +137,7 @@ Links: [Preprint](https://arxiv.org/abs/1801.09247) & [Journal](https://link.spr
 
 
 
-## Peer-Reviewed Proceedings Articles:
+# Peer-Reviewed Proceedings Articles:
 
 0. **Structure-preserving approximation for the non-isothermal Cahn-Hilliard-Navier-Stokes system**\
 with Dennis Schumann\
@@ -155,7 +155,7 @@ HYP 16: Theory, Numerics and Applications of Hyperbolic Problem I (2018)\
 Links: [Preprint](https://arxiv.org/abs/2102.00771) & [Journal](https://doi.org/10.1007/978-3-319-91545-6_20)
 {: reversed="reversed"}
 
-## Theses:
+# Theses:
 * * *
 * **Viscoelastic phase separation: Well-posedness and numerical analysis**\
   [PhD Dissertation](https://openscience.ub.uni-mainz.de/handle/20.500.12030/6777), Johannes Gutenberg University Mainz (2022)
@@ -165,7 +165,7 @@ Master's Thesis, Johannes Gutenberg University Mainz (2017)
 Bachelor's Thesis, Johannes Gutenberg University Mainz (2015)
 
 
-## Current projects/drafts:
+# Current projects/drafts:
 * * *
 0. **A posteriori existence of strong solutions for the Navier-Stokes equation in 3D** with Jan Giesselmann and Tabea Tscherpel, TU Darmstadt
 0. **Existence of discrete solutions and optimal errors estimates for quasi-incompressible Navier–Stokes–Maxwell–Stefan systems** with Ansgar Jüngel and Mária Lukácová-Medvidová, Tu Vienna/JGU Mainz
@@ -177,7 +177,7 @@ Bachelor's Thesis, Johannes Gutenberg University Mainz (2015)
 0. **Energy-stable H^2 conforming discretisations for the Cahn-Hilliard equation with variable mobility** with Marvin Fritz, RICAM
 
 
-## To-Do list: 
+# To-Do list: 
 * * *
 0. **Relative energy estimates for non-isothermal phase-field systems including fluid flow**
 0. **Error estimates for an energy-stable FE discretisation for the Abels-Garcke-Grün model**
