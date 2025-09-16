@@ -10,7 +10,15 @@ Most of my preprints can be found on [arXiv.org](http://arxiv.org/a/brunk_a_1) a
 My articles can also be tracked on [Google Scholar](https://scholar.google.com/citations?user=h5e5aTkAAAAJ&hl=de) and [ORCID](https://orcid.org/0000-0003-4987-2398).
 
 
-Preprints:
+[Preprints](#preprints)
+[Peer-Reviewed Journal Articles](#peer-reviewed--journal--articles)
+[Peer-Reviewed Proceedings Articles](#peer-reviewed-proceedings--articles)
+[Theses:](#theses)
+[Current projects/drafts (only on request)](#preprints)
+[To-Do list (if you are interested just let me know)](#preprints)
+
+
+## Preprints:
 ==================
 * * *
 0. **Structure-preserving approximation of the non-isothermal Cahn-Hilliard system**\
@@ -33,7 +41,7 @@ with Joydip Chaudhuri, Burkhard Dünweg and Mária Lukácová-Medvidová\
 Links: [Preprint](https://arxiv.org/abs/2308.01326) 
 {: reversed="reversed"}
 
-Peer-Reviewed Journal Articles:
+## Peer-Reviewed Journal Articles:
 ==================
 * * *
 
@@ -131,7 +139,7 @@ Links: [Preprint](https://arxiv.org/abs/1801.09247) & [Journal](https://link.spr
 
 
 
-Peer-Reviewed Proceedings Articles:
+## Peer-Reviewed Proceedings Articles:
 
 0. **Structure-preserving approximation for the non-isothermal Cahn-Hilliard-Navier-Stokes system**\
 with Dennis Schumann\
@@ -149,7 +157,7 @@ HYP 16: Theory, Numerics and Applications of Hyperbolic Problem I (2018)\
 Links: [Preprint](https://arxiv.org/abs/2102.00771) & [Journal](https://doi.org/10.1007/978-3-319-91545-6_20)
 {: reversed="reversed"}
 
-Theses:
+## Theses:
 ==================
 * * *
 
@@ -162,7 +170,7 @@ Master's Thesis, Johannes Gutenberg University Mainz (2017)
 Bachelor's Thesis, Johannes Gutenberg University Mainz (2015)
 
 
-Current projects/drafts (only on request):
+## Current projects/drafts (only on request):
 ==================
 * * *
 0. **A posteriori existence of strong solutions for the Navier-Stokes equation in 3D** with Jan Giesselmann and Tabea Tscherpel, TU Darmstadt
@@ -175,7 +183,7 @@ Current projects/drafts (only on request):
 0. **Energy-stable H^2 conforming discretisations for the Cahn-Hilliard equation with variable mobility** with Marvin Fritz, RICAM
 
 
-To-Do list (if you are interested just let me know): 
+## To-Do list (if you are interested just let me know): 
 ==================
 * * *
 0. **Relative energy estimates for non-isothermal phase-field systems including fluid flow**
