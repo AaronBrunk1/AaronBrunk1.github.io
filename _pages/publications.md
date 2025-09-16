@@ -11,7 +11,6 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 
 
 <!-- Full-width row -->
-|:------:|
 |On this page|
 |:------:|:------:|
 | [Preprints](#preprints)        |   [Current projects/drafts](#current-projectsdrafts)    |
