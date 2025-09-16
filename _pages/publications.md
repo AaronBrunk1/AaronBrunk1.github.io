@@ -10,14 +10,16 @@ Most of my preprints can be found on [arXiv.org](http://arxiv.org/a/brunk_a_1) a
 My articles can also be tracked on [Google Scholar](https://scholar.google.com/citations?user=h5e5aTkAAAAJ&hl=de) and [ORCID](https://orcid.org/0000-0003-4987-2398).
 
 
-| On this page |
-|--------------|
-| [Preprints](#preprints)        |
-| [Peer-Reviewed Journal Articles](#peer-reviewed-journal-articles)      |
-| [Peer-Reviewed Proceedings Articles](#peer-reviewed-proceedings-articles)       |
-| [Theses:](#theses)       |
-| [Current projects/drafts](#current-projectsdrafts)       |
-| [To-Do list](#to-do-list)       |
+<!-- Full-width row -->
+<tr>
+  <td colspan="3" align="center"><b>On this page</b></td>
+</tr>
+
+|:------:|:------:|
+| [Preprints](#preprints)        | [Peer-Reviewed Journal Articles](#peer-reviewed-journal-articles)  
+| [Peer-Reviewed Proceedings Articles](#peer-reviewed-proceedings-articles)   | [Theses:](#theses)      |
+| [Current projects/drafts](#current-projectsdrafts)       | [To-Do list](#to-do-list)   |
+
 
 
 
