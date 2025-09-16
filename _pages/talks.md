@@ -12,7 +12,7 @@ Where we possibly could meet:
 ==================
 * * *
 Here are some upcomping events or vists which I plan to attend.
-- 17 - 19 September 2024; Annual Meeting of the SPP2256 in Augsburg
+- 17 - 19 September 2025; Annual Meeting of the SPP2256 in Augsburg
 
 Where we could have met:
 ==================

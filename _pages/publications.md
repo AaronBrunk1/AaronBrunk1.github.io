@@ -12,13 +12,13 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 
 <!-- Full-width row -->
 <tr>
-  <td colspan="3" align="center"><b>On this page</b></td>
+  <td colspan="2" align="center"><b>On this page</b></td>
 </tr>
 
 |:------:|:------:|
-| [Preprints](#preprints)        | [Peer-Reviewed Journal Articles](#peer-reviewed-journal-articles)  
+| [Preprints](#preprints)        | [Peer-Reviewed Journal Articles](#peer-reviewed-journal-articles)   [Current projects/drafts](#current-projectsdrafts)    |
 | [Peer-Reviewed Proceedings Articles](#peer-reviewed-proceedings-articles)   | [Theses](#theses)      |
-| [Current projects/drafts](#current-projectsdrafts)       | [To-Do List](#to-do-list)   |
+| [Peer-Reviewed Journal Articles](#peer-reviewed-journal-articles)     | [To-Do List](#to-do-list)   |
 
 
 
