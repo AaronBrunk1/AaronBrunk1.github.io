@@ -7,6 +7,9 @@ classes: wide
 ---
 
 I am a postdoctoral researcher at the [Institute of Mathematics](https://www.mathematik.uni-mainz.de/) of the Johannes Gutenberg University in Mainz in the group of [Mária Lukácová-Medvidová](https://www.numerik.mathematik.uni-mainz.de/prof-dr-maria-lukacova-medvidova/).
+
+Currently I'm substitute professor at the Friedrich-Alexander University Erlangen-Nürnberg.
+
 My research is focused on the analysis and development of numerical methods for partial differential equations. 
 In particular, I am interested in the stability of these schemes as well structure-preserving techniques, allowing to unify the analysis of the continuous and the discrete level.
 * * *

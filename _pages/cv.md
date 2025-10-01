@@ -17,8 +17,9 @@ Short CV:
 
 Work Experience:
 ------
+* 02/2026 - : Postdoctoral researcher at Johannes Gutenberg University Mainz
 * 10/2025 - 02/2026: Substitute professor (W3 Analysis) Friedrich Alexander University Erlangen-Nürnberg
-* 02/2022 - ongoing: Postdoctoral researcher at Johannes Gutenberg University Mainz
+* 02/2022 - 09/2025: Postdoctoral researcher at Johannes Gutenberg University Mainz
 * 11/2017 - 01/2022: Doctoral researcher at Johannes Gutenberg University Mainz
 * 10/2013 - 10/2017: Teaching student at Johannes Gutenberg University Mainz
 
