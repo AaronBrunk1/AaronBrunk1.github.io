@@ -12,3 +12,8 @@
 [timi]: https://scholar.google.com/citations?user=BUMHnZ0AAAAJ&hl=en
 [bx]: https://www.mawi.tu-darmstadt.de/mfm/mechanics_of_functional_materials/mfm_staff/detail_page_xu.en.jsp
 [yang]: https://www.mawi.tu-darmstadt.de/mfm/mechanics_of_functional_materials/mfm_staff/yangyiwei_yang.en.jsp
+[joydip]: https://www.iitkgp.ac.in/department/CH/faculty/ch-joy
+[nikos]: https://www.st-andrews.ac.uk/mathematics-statistics/people/ns210/
+[christian]: https://homepage.univie.ac.at/christian.schmeiser/
+[diane]: https://sites.google.com/site/dianepeurichard/home
+[niklas]: https://nklb.gitlab.io/

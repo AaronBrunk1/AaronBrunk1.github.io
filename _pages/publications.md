@@ -132,12 +132,12 @@ Journal of Physics: Condensed Matter (2021)\
 Links: [Preprint](https://arxiv.org/abs/2012.04234) & [Journal](https://iopscience.iop.org/article/10.1088/1361-648X/abeb13)
 
 0. **Modelling cell-cell collision and adhesion with the filament based lamellipodium model**\
-with Diane Peurichard, Nikolas Sfakianakis and Christian Schmeiser\
+with [Diane Peurichard][diane], [Nikolas Sfakianakis][nikos] and [Christian Schmeiser][christian]\
 Biomath (2018)\
 Links: [Preprint](https://arxiv.org/abs/1809.07852) & [Journal](https://biomath.math.bas.bg/biomath/index.php/biomath/article/view/j.biomath.2018.11.097)
 
 0. **Stability, Convergence, and Sensitivity Analysis of the FBLM and the Corresponding FEM**\
-with Nikolas Sfakianakis\
+with [Nikolas Sfakianakis][nikos]\
 Bulletin of Mathematical Biology (2018)\
 Links: [Preprint](https://arxiv.org/abs/1801.09247) & [Journal](https://link.springer.com/article/10.1007/s11538-018-0460-0)
 {: reversed="reversed"}
@@ -147,17 +147,17 @@ Links: [Preprint](https://arxiv.org/abs/1801.09247) & [Journal](https://link.spr
 # Peer-Reviewed Proceedings Articles:
 
 0. **Structure-preserving approximation for the non-isothermal Cahn-Hilliard-Navier-Stokes system**\
-with [Dennis Schumann][denniS]\
+with [Dennis Schumann][dennisS]\
 Numerical Mathematics and Advanced Applications ENUMATH 2023 (2025)\
 Links: [Preprint](https://arxiv.org/abs/2402.00147) & [Journal]( https://doi.org/10.1007/978-3-031-86173-4_19)
 
 0. **Nonisothermal Cahn-Hilliard Navier-Stokes system**\
-with [Dennis Schumann][denniS]\
+with [Dennis Schumann][dennisS]\
 Proceedings in Applied Mathematics and Mechanics (2024)\
 Links: [Preprint](https://arxiv.org/abs/2405.13936) & [Journal](https://doi.org/10.1002/pamm.202400060)
 
 0. **Chemotaxis and Haptotaxis on Cellular Level**\
-with Niklas Kolbe and Nikolas Sfakianakis\
+with [Niklas Kolbe][niklas] and [Nikolas Sfakianakis][nikos]\
 HYP 16: Theory, Numerics and Applications of Hyperbolic Problem I (2018)\
 Links: [Preprint](https://arxiv.org/abs/2102.00771) & [Journal](https://doi.org/10.1007/978-3-319-91545-6_20)
 {: reversed="reversed"}
