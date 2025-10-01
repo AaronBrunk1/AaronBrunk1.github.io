@@ -25,22 +25,22 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 # Preprints:
 * * *
 0. **A posteriori existence of strong solutions to the Navier-Stokes equations in 3D**\
-with [Jan Giesselmann][jan], Tabea Tscherpel\
+with [Jan Giesselmann][jan], [Tabea Tscherpel][tabea]\
 Links: [Preprint](https://arxiv.org/pdf/2509.26526)
 0. **Structure-preserving approximation of the non-isothermal Cahn-Hilliard system**\
-with Mária Lukácová-Medvidová, Dennis Schumann\
+with [Mária Lukácová-Medvidová][maria], [Dennis Schumann][dennisS]\
 Links: [Preprint](https://arxiv.org/abs/2506.23933)
 0. **A structure-preserving numerical method for quasi-incompressible Navier–Stokes–Maxwell–Stefan systems**\
-with Ansgar Jüngel, Mária Lukácová-Medvidová\
+with [Ansgar Jüngel][ansgar], [Mária Lukácová-Medvidová][maria]\
 Links: [Preprint](https://arxiv.org/abs/2504.11892)
 0. **A simple, fully-discrete, unconditionally energy-stable method for the two-phase Navier-Stokes Cahn-Hilliard model with arbitrary density ratios**\
-with Marco F. P. ten Eikelder\
+with [Marco F. P. ten Eikelder][marco]\
 Links: [Preprint](https://arxiv.org/abs/2504.00688) 
 0. **Analysis and discretization of the Ohta-Kawasaki equation with forcing and degenerate mobility**\
-with Marvin Fritz\
+with [Marvin Fritz][marvin]\
 Links: [Preprint](https://arxiv.org/abs/2411.09498) 
 0. **Fundamentals of the Oldroyd-B model revisited: Tensorial vs. vectorial theory**\
-with Joydip Chaudhuri, Burkhard Dünweg and Mária Lukácová-Medvidová\
+with Joydip Chaudhuri, [Burkhard Dünweg][burkhard] and [Mária Lukácová-Medvidová][maria]\
 Links: [Preprint](https://arxiv.org/abs/2308.01326) 
 {: reversed="reversed"}
 
@@ -48,52 +48,52 @@ Links: [Preprint](https://arxiv.org/abs/2308.01326)
 * * *
 
 0. **Analysis and structure-preserving approximation of a Cahn-Hilliard-Forchheimer system with solution-dependent mass and volume source**\
-with Marvin Fritz\
+with [Marvin Fritz][marvin]\
 ESAIM: Mathematical Modelling and Numerical Analysis (2025)\
 Links: [Preprint](https://arxiv.org/abs/2504.09739) & [Journal](https://doi.org/10.1051/m2an/2025081)
 
 0. **Error analysis for a second order approximation of a viscoelastic phase separation model**\
-with Herbert Egger, Oliver Habrich, Mária Lukácová-Medvidová\
+with [Herbert Egger][herbert], Oliver Habrich, [Mária Lukácová-Medvidová][maria]\
 Numerische Mathematik (2025)\
 Links: [Preprint](https://arxiv.org/abs/2407.01803)  & [Journal](https://doi.org/10.1007/s00211-025-01488-1)
 
 0. **Robust a posteriori error control for the Allen-Cahn equation with variable mobility**\
-with Jan Giesselmann and Mária Lukácová-Medvidová \
+with [Jan Giesselmann][jan] and [Mária Lukácová-Medvidová][maria] \
 SIAM Journal on Numerical Analysis (2025)\
 Links: [Preprint](https://arxiv.org/abs/2403.08898) & [Journal](https://epubs.siam.org/doi/full/10.1137/24M1646406)
 
 0. **Structure-preserving approximation of the Cahn-Hilliard-Biot system**\
-with Marvin Fritz\
+with [Marvin Fritz][marvin]\
 Numerical Methods for Partial Differential Equations (2024)\
 Links: [Preprint](https://arxiv.org/abs/2407.12349) & [Journal](https://doi.org/10.1002/num.23159)
 
 0. **A second-order structure-preserving discretization for the Cahn-Hilliard/Allen-Cahn system with cross-kinetic coupling**\
-with Herbert Egger, Oliver Habrich\
+with [Herbert Egger][herbert], Oliver Habrich\
 Applied Numerical Mathematics (2024)\
 Links: [Preprint](https://arxiv.org/abs/2308.01638) & [Journal](https://doi.org/10.1016/j.apnum.2024.07.016)
 
 0. **Variational approximation for a non-isothermal coupled phase-field system: Structure-preservation & Nonlinear stability**\
-with Oliver Habrich, Timileyin David Oyedeji, Yangyiwei Yang, Bai-Xiang Xu\
+with Oliver Habrich, [Timileyin David Oyedeji][timi], [Yangyiwei Yang][yang], [Bai-Xiang Xu][bx]\
 Computational Methods in Applied Mathematics (2024)\
 Links: [Preprint](https://arxiv.org/abs/2312.14566) & [Journal](https://doi.org/10.1515/cmam-2023-0274)
 
 0. **On existence, uniqueness and stability of solutions to Cahn-Hilliard/Allen-Cahn systems with cross-kinetic coupling**\
-with Herbert Egger, Timileyin David Oyedeji, Yangyiwei Yang and Bai-Xiang Xu\
+with [Herbert Egger][herbert], [Timileyin David Oyedeji][timi], [Yangyiwei Yang][yang], [Bai-Xiang Xu][bx]\
 Nonlinear Analysis: Real World Applications (2023)\
 Links: [Preprint](https://arxiv.org/abs/2211.07153) & [Journal](https://doi.org/10.1016/j.nonrwa.2023.104051) 
 
 0. **A second-order fully-balanced structure-preserving variational discretization scheme for the Cahn-Hilliard Navier-Stokes system**\
-with Herbert Egger, Oliver Habrich and Mária Lukácová-Medvidová\
+with [Herbert Egger][herbert], Oliver Habrich and [Mária Lukácová-Medvidová][maria]\
 Mathematical Models and Methods in Applied Sciences (M3AS) (2023)\
 Links: [Preprint](https://arxiv.org/abs/2209.03849) & [Journal](https://doi.org/10.1142/S0218202523500562) 
 
 0. **On uniqueness and stable estimation of multiple parameters in the Cahn-Hilliard equation**\
-with Herbert Egger, Oliver Habrich\
+with [Herbert Egger][herbert], Oliver Habrich\
 Inverse Probleme (2023)\
 Links: [Preprint](https://arxiv.org/abs/2208.10201) & [Journal](https://doi.org/10.1088/1361-6420/acca44)
 
 0. **Stability and discretization error analysis for the Cahn-Hilliard system via relative energy estimates**\
-with Herbert Egger, Oliver Habrich and Mária Lukácová-Medvidová\
+with [Herbert Egger][herbert], Oliver Habrich and [Mária Lukácová-Medvidová][maria]\
 ESAIM: Mathematical Modelling and Numerical Analysis (2023)\
 Links: [Preprint](https://arxiv.org/abs/2102.05704) & [Journal](https://doi.org/10.1051/m2an/2023017)
 
@@ -102,32 +102,32 @@ Links: [Preprint](https://arxiv.org/abs/2102.05704) & [Journal](https://doi.org/
 Links: [Preprint](https://arxiv.org/abs/2208.01374) & [Journal](https://www.aimsciences.org/article/doi/10.3934/dcds.2023004)
 
 0. **Relative energy and weak-strong uniqueness of the two-phase viscoelastic phase separation model**\
-with Mária Lukácová-Medvidová\
+with [Mária Lukácová-Medvidová][maria]\
 Zeitschrift für Angewandte Mathematik und Mechanik (2022)\
 Links: [Preprint](https://arxiv.org/abs/2104.00589) & [Journal](https://doi.org/10.1002/zamm.202100240)
 
 0. **Global existence of weak solutions to viscoelastic phase separation: Part II Degenerate Case**\
-with Mária Lukácová-Medvidová\
+with [Mária Lukácová-Medvidová][maria]\
 Nonlinearity (2022)\
 Links: [Preprint](https://arxiv.org/abs/2004.14790) & [Journal](https://iopscience.iop.org/article/10.1088/1361-6544/ac591e)
 
 0. **Global existence of weak solutions to viscoelastic phase separation: Part I Regular Case**\
-with Mária Lukácová-Medvidová\
+with [Mária Lukácová-Medvidová][maria]\
 Nonlinearity (2022)\
 Links: [Preprint](https://arxiv.org/abs/1907.03480) & [Journal](https://iopscience.iop.org/article/10.1088/1361-6544/ac5920)
 
 0. **Existence, regularity and weak-strong uniqueness for three-dimensional Peterlin viscoelastic model**\
-with Yong Lu and Mária Lukácová-Medvidová\
+with [Yong Lu][yong] and [Mária Lukácová-Medvidová][maria]\
 Communications in Mathematical Sciences (2022)\
 Links: [Preprint](https://arxiv.org/abs/2102.02422) & [Journal](https://www.intlpress.com/site/pub/pages/journals/items/cms/content/vols/0020/0001/a006/)
 
 0. **Systematic derivation of hydrodynamic equations for viscoelastic phase separation**\
-with Burkhard Dünweg, Herbert Egger, Oliver Habrich, Mária Lukácová-Medvidová and Dominic Spiller\
+with [Burkhard Dünweg][burkhard], [Herbert Egger][herbert], Oliver Habrich, [Mária Lukácová-Medvidová][maria] and Dominic Spiller\
 Journal of Physics: Condensed Matter (2021)\
 Links: [Preprint](https://arxiv.org/abs/2102.00771) & [Journal](https://iopscience.iop.org/article/10.1088/1361-648X/ac0d17)
 
 0. **Analysis of a viscoelastic phase separation model**\
-with Burkhard Dünweg, Herbert Egger, Oliver Habrich, Mária Lukácová-Medvidová and Dominic Spiller\
+with [Burkhard Dünweg][burkhard], [Herbert Egger][herbert], Oliver Habrich, [Mária Lukácová-Medvidová][maria] and Dominic Spiller\
 Journal of Physics: Condensed Matter (2021)\
 Links: [Preprint](https://arxiv.org/abs/2012.04234) & [Journal](https://iopscience.iop.org/article/10.1088/1361-648X/abeb13)
 
@@ -147,12 +147,12 @@ Links: [Preprint](https://arxiv.org/abs/1801.09247) & [Journal](https://link.spr
 # Peer-Reviewed Proceedings Articles:
 
 0. **Structure-preserving approximation for the non-isothermal Cahn-Hilliard-Navier-Stokes system**\
-with Dennis Schumann\
+with [Dennis Schumann][denniS]\
 Numerical Mathematics and Advanced Applications ENUMATH 2023 (2025)\
 Links: [Preprint](https://arxiv.org/abs/2402.00147) & [Journal]( https://doi.org/10.1007/978-3-031-86173-4_19)
 
 0. **Nonisothermal Cahn-Hilliard Navier-Stokes system**\
-with Dennis Schumann\
+with [Dennis Schumann][denniS]\
 Proceedings in Applied Mathematics and Mechanics (2024)\
 Links: [Preprint](https://arxiv.org/abs/2405.13936) & [Journal](https://doi.org/10.1002/pamm.202400060)
 
@@ -174,13 +174,13 @@ Bachelor's Thesis, Johannes Gutenberg University Mainz (2015)
 
 # Current projects/drafts:
 * * *
-0. **Existence of discrete solutions and optimal errors estimates for quasi-incompressible Navier–Stokes–Maxwell–Stefan systems** with Ansgar Jüngel and Mária Lukácová-Medvidová, Tu Vienna/JGU Mainz
-0. **Structure-preserving approximations for viscoelastic systems with phase-field dependent energy** with Dennis Trautwein, University Regensburg
-0. **Structure-preserving approximation for non-isothermal phase-field models in melt flow** with Dennis Schumann, JGU Mainz
-0. **Modeling and structure-preserving discretization of N-phase incompressible fluid mixtures with arbitrary density ratios** with Marco ten Eikelder, TU Darmstadt
-0. **Modeling and stable discretisations for Maxwell–Stefan  with quasi-incompressible, heat conducting fluids** with Patrick Farrell and Mária Lukácová-Medvidová, Oxford/JGU Mainz
-0. **Existence and weak-strong uniqueness for non-isothermal phase-field systems** with Marvin Fritz, RICAM
-0. **Energy-stable H^2 conforming discretisations for the Cahn-Hilliard equation with variable mobility** with Marvin Fritz, RICAM
+0. **Existence of discrete solutions and optimal errors estimates for quasi-incompressible Navier–Stokes–Maxwell–Stefan systems** with [Ansgar Jüngel][ansgar] and [Mária Lukácová-Medvidová][maria]
+0. **Structure-preserving approximations for viscoelastic systems with phase-field dependent energy** with [Dennis Trautwein][dennisT]
+0. **Structure-preserving approximation for non-isothermal phase-field models in melt flow** with [Dennis Schumann][dennisS]
+0. **Modeling and structure-preserving discretization of N-phase incompressible fluid mixtures with arbitrary density ratios** with [Marco ten Eikelder][marco]
+0. **Modeling and stable discretisations for Maxwell–Stefan  with quasi-incompressible, heat conducting fluids** with Patrick Farrell and [Mária Lukácová-Medvidová][maria]
+0. **Existence and weak-strong uniqueness for non-isothermal phase-field systems** with [Marvin Fritz][marvin]
+0. **Energy-stable H^2 conforming discretisations for the Cahn-Hilliard equation with variable mobility** with [Marvin Fritz][marvin]
 
 
 # To-Do list: 
