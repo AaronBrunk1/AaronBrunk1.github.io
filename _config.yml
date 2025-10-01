@@ -104,5 +104,3 @@ defaults:
       layout: single
       author_profile: true
 
-
-{% include links.md %}
