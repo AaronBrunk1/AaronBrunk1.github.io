@@ -23,6 +23,9 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 
 # Preprints:
 * * *
+0. **A posteriori existence of strong solutions to the Navier-Stokes equations in 3D**\
+with Jan Giesselmann, Tabea Tscherpel\
+Links: [Preprint](https://arxiv.org/pdf/2509.26526)
 0. **Structure-preserving approximation of the non-isothermal Cahn-Hilliard system**\
 with Mária Lukácová-Medvidová, Dennis Schumann\
 Links: [Preprint](https://arxiv.org/abs/2506.23933)
