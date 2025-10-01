@@ -173,7 +173,6 @@ Bachelor's Thesis, Johannes Gutenberg University Mainz (2015)
 
 # Current projects/drafts:
 * * *
-0. **A posteriori existence of strong solutions for the Navier-Stokes equation in 3D** with Jan Giesselmann and Tabea Tscherpel, TU Darmstadt
 0. **Existence of discrete solutions and optimal errors estimates for quasi-incompressible Navier–Stokes–Maxwell–Stefan systems** with Ansgar Jüngel and Mária Lukácová-Medvidová, Tu Vienna/JGU Mainz
 0. **Structure-preserving approximations for viscoelastic systems with phase-field dependent energy** with Dennis Trautwein, University Regensburg
 0. **Structure-preserving approximation for non-isothermal phase-field models in melt flow** with Dennis Schumann, JGU Mainz
