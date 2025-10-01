@@ -1,0 +1,14 @@
+[maria]: https://www.numerik.mathematik.uni-mainz.de/prof-dr-maria-lukacova-medvidova/
+[herbert]: https://numa.jku.at/team/egger/
+[jan]: https://www.mathematik.tu-darmstadt.de/numerik-und-wissenschaftliches-rechnen/personen_numerik/details_num/jan_giesselmann.en.jsp
+[tabea]: https://www.mathematik.tu-darmstadt.de/numerik-und-wissenschaftliches-rechnen/personen_numerik/details_num/tscherpel__tabea.de.jsp
+[marvin]:  https://www.marvinfritz.de/
+[burkhard]: https://www.mpip-mainz.mpg.de/de/kremer/gruppen/duenweg
+[yong]: http://maths.nju.edu.cn/~luyong/
+[dennisS]: https://www.numerik.mathematik.uni-mainz.de/dennis-schumann/
+[dennisT]: https://scholar.google.com/citations?user=MgSwDcoAAAAJ&hl=de
+[ansgar]: https://www.tuwien.at/mg/asc/juengel
+[marco]: https://marcoteneikelder.github.io/
+[timi]: https://scholar.google.com/citations?user=BUMHnZ0AAAAJ&hl=en
+[bx]: https://www.mawi.tu-darmstadt.de/mfm/mechanics_of_functional_materials/mfm_staff/detail_page_xu.en.jsp
+[yang]: https://www.mawi.tu-darmstadt.de/mfm/mechanics_of_functional_materials/mfm_staff/yangyiwei_yang.en.jsp
