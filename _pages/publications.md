@@ -49,7 +49,7 @@ Links: [Preprint](https://arxiv.org/abs/2308.01326)
 0. **Analysis and structure-preserving approximation of a Cahn-Hilliard-Forchheimer system with solution-dependent mass and volume source**\
 with Marvin Fritz\
 ESAIM: Mathematical Modelling and Numerical Analysis (2025)\
-Links: [Preprint](https://arxiv.org/abs/2504.09739) 
+Links: [Preprint](https://arxiv.org/abs/2504.09739) & [Journal](https://doi.org/10.1051/m2an/2025081)
 
 0. **Error analysis for a second order approximation of a viscoelastic phase separation model**\
 with Herbert Egger, Oliver Habrich, Mária Lukácová-Medvidová\
