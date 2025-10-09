@@ -12,11 +12,15 @@ Where we possibly could meet:
 ==================
 * * *
 Here are some upcomping events or vists which I plan to attend.
-- 17 - 19 September 2025; Annual Meeting of the SPP2256 in Augsburg
+- 30 Nov - 4 Dec 2026; Mathematical models for mixtures at CIRM, Marseille, France
+- 19 - 24 July 2026; WCCM-ECCOMAS 2026, Munich, Germany 
+- 06 - 10 July 2026; 15th AIMS Conference 2026, Athens, Greek
+- 16 - 20 March 2026; 96th annual meeting of the international association of applied mathematics and mechanics (GAMM 2026), Stuttgart, Germany
 
 Where we could have met:
 ==================
 * * *
+- 17 - 19 September 2025; Annual Meeting of the SPP2256 in Augsburg
 - 01 - 05 September 2025; [Enumath25](https://enumath2025.eu/); Heidelberg; Organisation of minisymposium & talk
 - 24 - 27 June 2025; [The 30th Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk/) at University of Strathclyde, Glasgow
 - 24 - 25 April 2025; Research visit Regensburg and IntComSin Colloquium Talk
