@@ -9,16 +9,17 @@ classes: wide
 
 <details>
   <summary>Winter term 2025/2026 at FAU</summary>
-  
+  {% markdown %}
     1. Vorlesung: Grundlagen der partiellen Differentialgleichungen (4SWS)
+    {% endmarkdown %}
 </details>
 
 <details>
   <summary>Summer term 2025 at JGU:</summary>
-
+{% markdown %}
     1. Vorlesung: Mathematik für Informatiker 2a (4SWS)
     2. Hauptseminar: The Bregman divergence and its applications in (numerical) analysis of PDEs (2SWS)
-
+{% endmarkdown %}
 </details>
 
 <details>
