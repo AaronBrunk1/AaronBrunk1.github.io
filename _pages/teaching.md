@@ -6,6 +6,18 @@ author_profile: true
 classes: wide
 ---
 
+{% capture summary %}Klicke hier zum Ausklappen{% endcapture %}
+{% capture content %}
+Hier steht dein Inhalt.  
+Du kannst sogar **Markdown**, Listen, Bilder usw. verwenden.
+
+- Punkt 1
+- Punkt 2
+- Punkt 3
+
+{% endcapture %}
+{% include details.html summary=summary content=content open=true %}
+
 Winter term 2025/2026 at FAU:
 ==================
 * * *
