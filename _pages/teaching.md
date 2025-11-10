@@ -26,7 +26,7 @@ classes: wide
 <details>
   <summary>Summer term 2024 at JGU:</summary>
     <ol>
-    <li>Vorlesung: Mathematical Fluid Dynamics (2SWS)</li>
+    <li>Vorlesung: Mathematical Fluid Dynamics (2SWS) <a href="pages/teachingMFD.html">Gehe zu Other Page</a></li>
     <li>Vorlesung + Praktikum: Modellierungspraktikum (4SWS)</li>
     <li>Hauptseminar: Konvexe Optimierung (2SWS) </li>
   </ol>
