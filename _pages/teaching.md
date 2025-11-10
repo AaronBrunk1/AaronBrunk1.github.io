@@ -9,32 +9,29 @@ classes: wide
 
 <details>
   <summary>Winter term 2025/2026 at FAU</summary>
-    0. Vorlesung: Grundlagen der partiellen Differentialgleichungen (4SWS)
+    1. Vorlesung: Grundlagen der partiellen Differentialgleichungen (4SWS)
 </details>
 
 <details>
   <summary>Summer term 2025 at JGU:</summary>
-  * * *
-    0. Vorlesung: Mathematik für Informatiker 2a (4SWS)
-    0. Hauptseminar: The Bregman divergence and its applications in (numerical) analysis of PDEs (2SWS)
+    1. Vorlesung: Mathematik für Informatiker 2a (4SWS)
+    2. Hauptseminar: The Bregman divergence and its applications in (numerical) analysis of PDEs (2SWS)
 
 </details>
 
 <details>
   <summary>Summer term 2024 at JGU:</summary>
-  * * *
-    0. Vorlesung: Mathematical Fluid Dynamics (2SWS)
-    0. Vorlesung + Praktikum: Modellierungspraktikum (4SWS)
-    0. Hauptseminar: Konvexe Optimierung (2SWS) 
+    1. Vorlesung: Mathematical Fluid Dynamics (2SWS)
+    2. Vorlesung + Praktikum: Modellierungspraktikum (4SWS)
+    3. Hauptseminar: Konvexe Optimierung (2SWS) 
 </details>
 
 
 <details>
   <summary>Previous terms at JGU:</summary>
-  * * *
-0. Teaching assistant: Introduction into numerics
-0. Teaching assistent: Mathematics for natural scientists
-0. Tutor for Liner Algebra, Numerics, Analysis, Mathematics for physics II
+1. Teaching assistant: Introduction into numerics
+2. Teaching assistent: Mathematics for natural scientists
+3. Tutor for Liner Algebra, Numerics, Analysis, Mathematics for physics II
 </details>
 
 
