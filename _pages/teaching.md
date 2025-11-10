@@ -6,17 +6,21 @@ author_profile: true
 classes: wide
 ---
 
-{% capture summary %}Klicke hier zum Ausklappen{% endcapture %}
-{% capture content %}
-Hier steht dein Inhalt.  
-Du kannst sogar **Markdown**, Listen, Bilder usw. verwenden.
 
-- Punkt 1
-- Punkt 2
-- Punkt 3
+<details>
+  <summary>Titel 1</summary>
+  Das ist der Inhalt von Titel 1. Klick auf den Titel, um es auszuklappen.
+</details>
 
-{% endcapture %}
-{% include details.html summary=summary content=content open=true %}
+<details>
+  <summary>Titel 2</summary>
+  Das ist der Inhalt von Titel 2. Ebenfalls einklappbar.
+</details>
+
+<details>
+  <summary>Titel 3</summary>
+  Weitere Inhalte hier.
+</details>
 
 Winter term 2025/2026 at FAU:
 ==================
@@ -54,7 +58,7 @@ Current:
 0. Paula Schäfer master thesis on\
 **Strukturerhaltende Methoden für N-Phasen Cahn-Hilliard-Navier-Stokes-Systeme**
 0. Simon Schömer master thesis on\
-**Linear implizite und energiestabile Finite-Volumen-Methoden für die kompressiblen Navier-Stokes-Gleichunge**
+**Linear implizite und energiestabile Finite-Volumen-Methoden für die kompressiblen Navier-Stokes-Gleichungen**
 
 
 Previous:
