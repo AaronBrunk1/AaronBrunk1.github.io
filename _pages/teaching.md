@@ -6,7 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-
 <details>
   <summary>Winter term 2025/2026 at FAU</summary>
   <ol>
@@ -26,7 +25,7 @@ classes: wide
 <details>
   <summary>Summer term 2024 at JGU:</summary>
     <ol>
-    <li>Vorlesung: <a href="teachingMFD.html">Mathematical Fluid Dynamics (2SWS) </a>  (2SWS) </li>
+    <li>Vorlesung: <a href="teachMFD.html">Mathematical Fluid Dynamics (2SWS) </a>  (2SWS) </li>
     <li>Vorlesung + Praktikum: Modellierungspraktikum (4SWS)</li>
     <li>Hauptseminar: Konvexe Optimierung (2SWS) </li>
   </ol>
