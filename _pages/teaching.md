@@ -9,7 +9,6 @@ classes: wide
 
 <details>
   <summary>Winter term 2025/2026 at FAU</summary>
-  * * *
     0. Vorlesung: Grundlagen der partiellen Differentialgleichungen (4SWS)
 </details>
 
