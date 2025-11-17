@@ -47,7 +47,7 @@ Links: [Preprint](https://arxiv.org/abs/2308.01326)
 0. **Analysis and discretization of the Ohta-Kawasaki equation with forcing and degenerate mobility**\
 with [Marvin Fritz][marvin]\
 Partial Differential Equations and Applications (2025)\
-Links: [Preprint](https://arxiv.org/abs/2411.09498) 
+Links: [Preprint](https://arxiv.org/abs/2411.09498) & [Journal](https://doi.org/10.1007/s42985-025-00362-x)
 
 0. **Analysis and structure-preserving approximation of a Cahn-Hilliard-Forchheimer system with solution-dependent mass and volume source**\
 with [Marvin Fritz][marvin]\
