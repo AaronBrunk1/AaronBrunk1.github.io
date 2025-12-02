@@ -33,9 +33,6 @@ Links: [Preprint](https://arxiv.org/abs/2506.23933)
 0. **A structure-preserving numerical method for quasi-incompressible Navier–Stokes–Maxwell–Stefan systems**\
 with [Ansgar Jüngel][ansgar], [Mária Lukácová-Medvidová][maria]\
 Links: [Preprint](https://arxiv.org/abs/2504.11892)
-0. **A simple, fully-discrete, unconditionally energy-stable method for the two-phase Navier-Stokes Cahn-Hilliard model with arbitrary density ratios**\
-with [Marco F. P. ten Eikelder][marco]\
-Links: [Preprint](https://arxiv.org/abs/2504.00688) 
 0. **Fundamentals of the Oldroyd-B model revisited: Tensorial vs. vectorial theory**\
 with Joydip Chaudhuri, [Burkhard Dünweg][burkhard] and [Mária Lukácová-Medvidová][maria]\
 Links: [Preprint](https://arxiv.org/abs/2308.01326) 
@@ -43,6 +40,11 @@ Links: [Preprint](https://arxiv.org/abs/2308.01326)
 
 # Peer-Reviewed Journal Articles:
 * * *
+
+0. **A simple, fully-discrete, unconditionally energy-stable method for the two-phase Navier-Stokes Cahn-Hilliard model with arbitrary density ratios**\
+with [Marco F. P. ten Eikelder][marco]\
+Journal of Computational Physics (2025)\
+Links: [Preprint](https://arxiv.org/abs/2504.00688) 
 
 0. **Analysis and discretization of the Ohta-Kawasaki equation with forcing and degenerate mobility**\
 with [Marvin Fritz][marvin]\
