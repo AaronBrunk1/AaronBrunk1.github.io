@@ -44,7 +44,7 @@ Links: [Preprint](https://arxiv.org/abs/2308.01326)
 0. **A simple, fully-discrete, unconditionally energy-stable method for the two-phase Navier-Stokes Cahn-Hilliard model with arbitrary density ratios**\
 with [Marco F. P. ten Eikelder][marco]\
 Journal of Computational Physics (2025)\
-Links: [Preprint](https://arxiv.org/abs/2504.00688) 
+Links: [Preprint](https://arxiv.org/abs/2504.00688) & [Journal](https://doi.org/10.1016/j.jcp.2025.114558)
 
 0. **Analysis and discretization of the Ohta-Kawasaki equation with forcing and degenerate mobility**\
 with [Marvin Fritz][marvin]\

@@ -7,6 +7,13 @@ classes: wide
 ---
 
 <details>
+  <summary>Summer term 2026 at JGU</summary>
+  <ol>
+    <li>Vorlesung: Grundlagen der Numerik (4SWS)</li>
+  </ol>
+</details>
+
+<details>
   <summary>Winter term 2025/2026 at FAU</summary>
   <ol>
     <li>Vorlesung: Grundlagen der partiellen Differentialgleichungen (4SWS)</li>
@@ -43,7 +50,8 @@ classes: wide
 
 ***
 Bachelor/Master/PhD thesis:
-==================
+* * *
+
 Current:
 0. Dennis Schumann PhD thesis on\
 **Structure-preserving approximations for phase-field models in powder bed fusion additive manufacturing**

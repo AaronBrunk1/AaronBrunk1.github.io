@@ -12,6 +12,9 @@ Current projects:
 ==================
 * * *
 
+0. **MULTIVIS: Multicomponent Viscoelastic Flow Models — Thermodynamically Consistent Formulations and Structure-Preserving Simulations**\
+Mainz Institute of Multiscale Modeling with J. Michels and M. Lukácová-Medvidová
+as principal investigator
 0. **MULTIMIX - Multiphase Mixture Models: Bridging Theory, Numerics, and Applications**\
 RMU-Initiativfonds Forschung with M. ten Eikelder , TU Darmstadt
 as principal investigator
