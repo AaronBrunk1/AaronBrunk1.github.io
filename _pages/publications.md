@@ -27,12 +27,6 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 0. **A posteriori existence of strong solutions to the Navier-Stokes equations in 3D**\
 with [Jan Giesselmann][jan], [Tabea Tscherpel][tabea]\
 Links: [Preprint](https://arxiv.org/abs/2509.25105)
-0. **Structure-preserving approximation of the non-isothermal Cahn-Hilliard system**\
-with [Mária Lukácová-Medvidová][maria], [Dennis Schumann][dennisS]\
-Links: [Preprint](https://arxiv.org/abs/2506.23933)
-0. **A structure-preserving numerical method for quasi-incompressible Navier–Stokes–Maxwell–Stefan systems**\
-with [Ansgar Jüngel][ansgar], [Mária Lukácová-Medvidová][maria]\
-Links: [Preprint](https://arxiv.org/abs/2504.11892)
 0. **Fundamentals of the Oldroyd-B model revisited: Tensorial vs. vectorial theory**\
 with Joydip Chaudhuri, [Burkhard Dünweg][burkhard] and [Mária Lukácová-Medvidová][maria]\
 Links: [Preprint](https://arxiv.org/abs/2308.01326) 
@@ -40,6 +34,16 @@ Links: [Preprint](https://arxiv.org/abs/2308.01326)
 
 # Peer-Reviewed Journal Articles:
 * * *
+
+0. **Structure-preserving approximation of the non-isothermal Cahn-Hilliard system**\
+with [Mária Lukácová-Medvidová][maria], [Dennis Schumann][dennisS]\
+Applied Mathematics and Computation (2026, accepted)\
+Links: [Preprint](https://arxiv.org/abs/2506.23933) & Journal
+
+0. **A structure-preserving numerical method for quasi-incompressible Navier–Stokes–Maxwell–Stefan systems**\
+with [Ansgar Jüngel][ansgar], [Mária Lukácová-Medvidová][maria]\
+Journal of Scientific Computing (2026, accepted)\
+Links: [Preprint](https://arxiv.org/abs/2504.11892) & Journal
 
 0. **A simple, fully-discrete, unconditionally energy-stable method for the two-phase Navier-Stokes Cahn-Hilliard model with arbitrary density ratios**\
 with [Marco F. P. ten Eikelder][marco]\
