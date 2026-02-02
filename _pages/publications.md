@@ -37,13 +37,13 @@ Links: [Preprint](https://arxiv.org/abs/2308.01326)
 
 0. **Structure-preserving approximation of the non-isothermal Cahn-Hilliard system**\
 with [Mária Lukácová-Medvidová][maria], [Dennis Schumann][dennisS]\
-Applied Mathematics and Computation (2026, accepted)\
-Links: [Preprint](https://arxiv.org/abs/2506.23933) & Journal
+Applied Mathematics and Computation (2026)\
+Links: [Preprint](https://arxiv.org/abs/2506.23933) & [Journal](https://doi.org/10.1016/j.amc.2026.129987)
 
 0. **A structure-preserving numerical method for quasi-incompressible Navier–Stokes–Maxwell–Stefan systems**\
 with [Ansgar Jüngel][ansgar], [Mária Lukácová-Medvidová][maria]\
-Journal of Scientific Computing (2026, accepted)\
-Links: [Preprint](https://arxiv.org/abs/2504.11892) & Journal
+Journal of Scientific Computing (2026)\
+Links: [Preprint](https://arxiv.org/abs/2504.11892) & [Journal](https://doi.org/10.1007/s10915-026-03201-2)
 
 0. **A simple, fully-discrete, unconditionally energy-stable method for the two-phase Navier-Stokes Cahn-Hilliard model with arbitrary density ratios**\
 with [Marco F. P. ten Eikelder][marco]\
