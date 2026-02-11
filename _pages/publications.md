@@ -24,6 +24,9 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 
 # Preprints:
 * * *
+0. **Review of thermodynamic structures and structure-preserving discretisations of Cahn--Hilliard-type models**\
+with [Marco F. P. ten Eikelder][marco],  [Marvin Fritz][marvin], [Dennis Höhn][dennisS], Dennis Trautwein\
+Links: [Preprint](https://arxiv.org/abs/2602.08791)
 0. **A posteriori existence of strong solutions to the Navier-Stokes equations in 3D**\
 with [Jan Giesselmann][jan], [Tabea Tscherpel][tabea]\
 Links: [Preprint](https://arxiv.org/abs/2509.25105)
@@ -36,7 +39,7 @@ Links: [Preprint](https://arxiv.org/abs/2308.01326)
 * * *
 
 0. **Structure-preserving approximation of the non-isothermal Cahn-Hilliard system**\
-with [Mária Lukácová-Medvidová][maria], [Dennis Schumann][dennisS]\
+with [Mária Lukácová-Medvidová][maria], [Dennis Höhn][dennisS]\
 Applied Mathematics and Computation (2026)\
 Links: [Preprint](https://arxiv.org/abs/2506.23933) & [Journal](https://doi.org/10.1016/j.amc.2026.129987)
 
