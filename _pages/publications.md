@@ -24,6 +24,9 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 
 # Preprints:
 * * *
+0. **Phase-field investigation of non-isothermal solidification coupled with melt flow dynamics**\
+with [Timileyin David Oyedeji][timi], [Yangyiwei Yang][yang], [Herbert Egger][herbert], Holger Marschall and [Bai-Xiang Xu][bx]\
+Links: [Preprint](https://arxiv.org/abs/2603.02968)
 0. **Review of thermodynamic structures and structure-preserving discretisations of Cahn--Hilliard-type models**\
 with [Marco F. P. ten Eikelder][marco],  [Marvin Fritz][marvin], [Dennis Höhn][dennisS], Dennis Trautwein\
 Links: [Preprint](https://arxiv.org/abs/2602.08791)
