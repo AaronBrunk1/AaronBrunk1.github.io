@@ -12,6 +12,7 @@ Where we possibly could meet:
 ==================
 * * *
 Here are some upcomping events or vists which I plan to attend.
+- 08 - 12 March 2027; Joint annual meeting of GAMM and DMV (GAMM 2027), Ulm, Germany
 - 30 Nov - 4 Dec 2026; Mathematical models for mixtures at CIRM, Marseille, France
 - 19 - 24 July 2026; WCCM-ECCOMAS 2026, Munich, Germany 
 - 06 - 10 July 2026; 15th AIMS Conference 2026, Athens, Greek

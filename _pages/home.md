@@ -10,6 +10,8 @@ I am a postdoctoral researcher at the [Institute of Mathematics](https://www.mat
 
 My research is focused on the analysis and development of numerical methods for partial differential equations. 
 In particular, I am interested in the stability of these schemes as well structure-preserving techniques, allowing to unify the analysis of the continuous and the discrete level.
+
+In 2026 I was GAMM young investigator and you can find the newsletter [here](https://www.gamm.org/wp-content/uploads/2026/03/GAMM_1-26-web.pdf).
 * * *
 
 

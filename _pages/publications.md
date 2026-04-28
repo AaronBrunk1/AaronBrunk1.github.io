@@ -24,6 +24,9 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 
 # Preprints:
 * * *
+0. **Structure-preserving approximation for non-isothermal phase-field models in melt flow**\
+with [Dennis Höhn][dennisS]\
+Links: [Preprint](https://arxiv.org/abs/2604.21697)
 0. **Phase-field investigation of non-isothermal solidification coupled with melt flow dynamics**\
 with [Timileyin David Oyedeji][timi], [Yangyiwei Yang][yang], [Herbert Egger][herbert], Holger Marschall and [Bai-Xiang Xu][bx]\
 Links: [Preprint](https://arxiv.org/abs/2603.02968)
@@ -133,7 +136,7 @@ Links: [Preprint](https://arxiv.org/abs/1907.03480) & [Journal](https://iopscien
 0. **Existence, regularity and weak-strong uniqueness for three-dimensional Peterlin viscoelastic model**\
 with [Yong Lu][yong] and [Mária Lukácová-Medvidová][maria]\
 Communications in Mathematical Sciences (2022)\
-Links: [Preprint](https://arxiv.org/abs/2102.02422) & [Journal](https://www.intlpress.com/site/pub/pages/journals/items/cms/content/vols/0020/0001/a006/)
+Links: [Preprint](https://arxiv.org/abs/2102.02422) & [Journal](https://intlpress.com/JDetail/1806261672358662145)
 
 0. **Systematic derivation of hydrodynamic equations for viscoelastic phase separation**\
 with [Burkhard Dünweg][burkhard], [Herbert Egger][herbert], Oliver Habrich, [Mária Lukácová-Medvidová][maria] and Dominic Spiller\
