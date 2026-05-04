@@ -24,6 +24,9 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 
 # Preprints:
 * * *
+0. **Mixture-aware closure of the N-phase Navier-Stokes-Cahn-Hilliard mixture model**\
+with [Marco F. P. ten Eikelder][marco]\
+Links: [Preprint](https://arxiv.org/abs/2604.27999)
 0. **Structure-preserving approximation for non-isothermal phase-field models in melt flow**\
 with [Dennis Höhn][dennisS]\
 Links: [Preprint](https://arxiv.org/abs/2604.21697)
