@@ -18,12 +18,14 @@ Complementing the theoretical sessions, practical tutorials on **Git** and **NGS
 
 ## Schedule
 ### Monday
+
 | Time          | Topic            | Speaker |
 |---------------|------------------|---------|
 | 13:15–14:45   | Lecture: Gradient flows   | Brunk       |
 | 15:15–16:45   | Lecture: Navier–Stokes    | Brunk       |
 
 ### Tuesday
+
 | Time          | Topic                     | Speaker |
 |---------------|---------------------------|---------|
 | 08:15–10:00   | Lecture: Zeitdiskretisierung       | Brunk       |
@@ -33,17 +35,12 @@ Complementing the theoretical sessions, practical tutorials on **Git** and **NGS
 ## Prerequisites
 Participants are asked to **complete the installations below before the workshop**.
 
-
-
 ## 1. Git (Version Control)
 
 Please install **either Git (command line)** or **GitHub Desktop (GUI)**.
-
 ### Windows
 - Install **Git for Windows** https://git-scm.com/download/win  
 - *OR* GitHub Desktop  https://desktop.github.com/
-
-
 
 ### macOS
 - Install **Git** (if not already present): brew install git
@@ -66,17 +63,17 @@ The hands-on session uses **NGSolve installed via Python**.
 - sudo apt install python3 python3-pip python3-venv
 
 ### Win
--python -m venv ngsolve-env
--ngsolve-env\Scripts\activate
+- python -m venv ngsolve-env
+- ngsolve-env\Scripts\activate
 
 ### macOS/Linux
--python3 -m venv ngsolve-env
--source ngsolve-env/bin/activate
+- python3 -m venv ngsolve-env
+- source ngsolve-env/bin/activate
 
 ### Installation
--python -m pip install --upgrade pip
--python -m pip install numpy scipy matplotlib jupyter
--python -m pip install --upgrade ngsolve webgui_jupyter_widgets
+- python -m pip install --upgrade pip
+- python -m pip install numpy scipy matplotlib jupyter
+- python -m pip install --upgrade ngsolve webgui_jupyter_widgets
 
 
 
