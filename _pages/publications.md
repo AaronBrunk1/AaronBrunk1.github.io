@@ -24,6 +24,9 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 
 # Preprints:
 * * *
+0. **Entropy-stable and energy-conservative fully-discrete finite element method for non-isothermal phase-field models**\
+with [Dennis Höhn][dennisS]\
+Links: [Preprint](https://arxiv.org/abs/2605.30559)
 0. **Mixture-aware closure of the N-phase Navier-Stokes-Cahn-Hilliard mixture model**\
 with [Marco F. P. ten Eikelder][marco]\
 Links: [Preprint](https://arxiv.org/abs/2604.27999)
