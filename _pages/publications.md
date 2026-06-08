@@ -24,6 +24,9 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 
 # Preprints:
 * * *
+0. **High-order conforming finite elements for the Cahn-Hilliard equation: Relative-energy stability and energy defects**\
+with [Marvin Fritz][marvin]\
+Links: [Preprint](https://arxiv.org/abs/2606.06719)
 0. **Entropy-stable and energy-conservative fully-discrete finite element method for non-isothermal phase-field models**\
 with [Dennis Höhn][dennisS]\
 Links: [Preprint](https://arxiv.org/abs/2605.30559)
