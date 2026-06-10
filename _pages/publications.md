@@ -202,11 +202,8 @@ Bachelor's Thesis, Johannes Gutenberg University Mainz (2015)
 * * *
 0. **Existence of discrete solutions and optimal errors estimates for quasi-incompressible Navier–Stokes–Maxwell–Stefan systems** with [Ansgar Jüngel][ansgar] and [Mária Lukácová-Medvidová][maria]
 0. **Structure-preserving approximations for viscoelastic systems with phase-field dependent energy** with [Dennis Trautwein][dennisT]
-0. **Structure-preserving approximation for non-isothermal phase-field models in melt flow** with [Dennis Schumann][dennisS]
-0. **Modeling and structure-preserving discretization of N-phase incompressible fluid mixtures with arbitrary density ratios** with [Marco ten Eikelder][marco]
 0. **Modeling and stable discretisations for Maxwell–Stefan  with quasi-incompressible, heat conducting fluids** with Patrick Farrell and [Mária Lukácová-Medvidová][maria]
 0. **Existence and weak-strong uniqueness for non-isothermal phase-field systems** with [Marvin Fritz][marvin]
-0. **Energy-stable H^2 conforming discretisations for the Cahn-Hilliard equation with variable mobility** with [Marvin Fritz][marvin]
 
 
 # To-Do list: 
