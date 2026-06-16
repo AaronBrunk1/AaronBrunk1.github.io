@@ -24,6 +24,12 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 
 # Preprints:
 * * *
+0. **Surface-tension calibration for N-phase mixtures**\
+with [Marco F. P. ten Eikelder][marco]\
+Links: [Preprint](https://arxiv.org/abs/2606.14287)
+0. **Symmetric structure-preserving discretization of N-phase incompressible fluid mixtures with arbitrary density ratios**\
+with [Marco F. P. ten Eikelder][marco]\
+Links: [Preprint](https://arxiv.org/abs/2606.12256)
 0. **High-order conforming finite elements for the Cahn-Hilliard equation: Relative-energy stability and energy defects**\
 with [Marvin Fritz][marvin]\
 Links: [Preprint](https://arxiv.org/abs/2606.06719)
