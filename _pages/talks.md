@@ -12,15 +12,18 @@ Where we possibly could meet:
 ==================
 * * *
 Here are some upcomping events or vists which I plan to attend.
-- 08 - 12 March 2027; Joint annual meeting of GAMM and DMV (GAMM 2027), Ulm, Germany
-- 30 Nov - 4 Dec 2026; Mathematical models for mixtures at CIRM, Marseille, France
-- 19 - 24 July 2026; WCCM-ECCOMAS 2026, Munich, Germany 
-- 06 - 10 July 2026; 15th AIMS Conference 2026, Athens, Greek
-- 16 - 20 March 2026; 96th annual meeting of the international association of applied mathematics and mechanics (GAMM 2026), Stuttgart, Germany
+- 01 - 03 March 2026; 2st GAMM Workshop on Interfacial and Multiphase Flow, WIAS, Berlin
+- 08 - 12 March 2027; Joint annual meeting of GAMM and DMV ([GAMM 2027](https://jahrestagung.gamm.org/joint-annual-meeting-2027/joint-annual-meeting/)), Ulm, Germany
+- 30 Nov - 4 Dec 2026; [Mathematical models for mixtures](https://conferences.cirm-math.fr/3623.html) at CIRM, Marseille, France
+- 23 - 25 September 2026; [Annual Meeting of the SPP2256](https://www.uni-regensburg.de/mathematik/forschen/verbundprojekte/spp-2256/veranstatungen/jahrestreffen/jahrestreffen-2026) in Regensburg
+Germany
 
 Where we could have met:
 ==================
 * * *
+- 06 - 10 July 2026; 15th AIMS Conference 2026, Athens, Greek
+- 16 - 20 March 2026; 96th annual meeting of the international association of applied mathematics and mechanics (GAMM 2026), Stuttgart
+- 05 - 06 March 2026; [1st GAMM Workshop on Interfacial and Multiphase Flow](https://www.mechanik.tu-darmstadt.de/forschung_mech/gamm_workshop/gamm_workshop.en.jsp), Darmstadt
 - 17 - 19 September 2025; Annual Meeting of the SPP2256 in Augsburg
 - 01 - 05 September 2025; [Enumath25](https://enumath2025.eu/); Heidelberg; Organisation of minisymposium & talk
 - 24 - 27 June 2025; [The 30th Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk/) at University of Strathclyde, Glasgow
@@ -59,5 +62,6 @@ approximation; Mainz; with H. Egger und O. Habrich
 
 Organised/co-organised events:
 ==================
-- 12 - 14 September 2022; Compact Seminar Numerics group JGU Mainz; Bad Boll; organised with M. Lukacova
+- 03 - 04 September 2026: [Multimix 2026](https://www.mechanik.tu-darmstadt.de/forschung_mech/multimix_2026/MULTIMIX_2026.en.jsp) organised with M. ten Eikelder
+- 12 - 14 September 2022: Compact Seminar Numerics group JGU Mainz; Bad Boll; organised with M. Lukacova
 - 03 March 2021: Workshop: [Propagation of Uncertainty and Chaos in Multiscale Systems](https://www.cecam.org/workshop-details/995); Mainz; organised with F. Frommer

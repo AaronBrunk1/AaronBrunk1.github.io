@@ -174,7 +174,7 @@ Links: [Preprint](https://arxiv.org/abs/1801.09247) & [Journal](https://link.spr
 
 0. **Entropy-stable and energy-conservative fully-discrete finite element method for non-isothermal phase-field models**\
 with [Dennis Höhn][dennisS]\
-Proceedings in Applied Mathematics and Mechanics (2026, accepted)
+Proceedings in Applied Mathematics and Mechanics (2026, accepted)\
 Links: [Preprint](https://arxiv.org/abs/2605.30559)
 
 0. **Review of thermodynamic structures and structure-preserving discretisations of Cahn--Hilliard-type models**\
