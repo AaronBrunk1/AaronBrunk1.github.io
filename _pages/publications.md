@@ -33,9 +33,6 @@ Links: [Preprint](https://arxiv.org/abs/2606.12256)
 0. **High-order conforming finite elements for the Cahn-Hilliard equation: Relative-energy stability and energy defects**\
 with [Marvin Fritz][marvin]\
 Links: [Preprint](https://arxiv.org/abs/2606.06719)
-0. **Entropy-stable and energy-conservative fully-discrete finite element method for non-isothermal phase-field models**\
-with [Dennis Höhn][dennisS]\
-Links: [Preprint](https://arxiv.org/abs/2605.30559)
 0. **Mixture-aware closure of the N-phase Navier-Stokes-Cahn-Hilliard mixture model**\
 with [Marco F. P. ten Eikelder][marco]\
 Links: [Preprint](https://arxiv.org/abs/2604.27999)
@@ -45,9 +42,6 @@ Links: [Preprint](https://arxiv.org/abs/2604.21697)
 0. **Phase-field investigation of non-isothermal solidification coupled with melt flow dynamics**\
 with [Timileyin David Oyedeji][timi], [Yangyiwei Yang][yang], [Herbert Egger][herbert], Holger Marschall and [Bai-Xiang Xu][bx]\
 Links: [Preprint](https://arxiv.org/abs/2603.02968)
-0. **Review of thermodynamic structures and structure-preserving discretisations of Cahn--Hilliard-type models**\
-with [Marco F. P. ten Eikelder][marco],  [Marvin Fritz][marvin], [Dennis Höhn][dennisS], Dennis Trautwein\
-Links: [Preprint](https://arxiv.org/abs/2602.08791)
 0. **A posteriori existence of strong solutions to the Navier-Stokes equations in 3D**\
 with [Jan Giesselmann][jan], [Tabea Tscherpel][tabea]\
 Links: [Preprint](https://arxiv.org/abs/2509.25105)
@@ -177,6 +171,16 @@ Links: [Preprint](https://arxiv.org/abs/1801.09247) & [Journal](https://link.spr
 
 
 # Peer-Reviewed Proceedings Articles:
+
+0. **Entropy-stable and energy-conservative fully-discrete finite element method for non-isothermal phase-field models**\
+with [Dennis Höhn][dennisS]\
+Proceedings in Applied Mathematics and Mechanics (2026, accepted)
+Links: [Preprint](https://arxiv.org/abs/2605.30559)
+
+0. **Review of thermodynamic structures and structure-preserving discretisations of Cahn--Hilliard-type models**\
+with [Marco F. P. ten Eikelder][marco],  [Marvin Fritz][marvin], [Dennis Höhn][dennisS], Dennis Trautwein\
+Numerical Mathematics and Advanced Applications ENUMATH 2025 (2026, accepted)\
+Links: [Preprint](https://arxiv.org/abs/2602.08791)
 
 0. **Structure-preserving approximation for the non-isothermal Cahn-Hilliard-Navier-Stokes system**\
 with [Dennis Schumann][dennisS]\
