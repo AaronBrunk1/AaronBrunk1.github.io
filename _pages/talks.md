@@ -6,6 +6,9 @@ author_profile: true
 classes: wide
 ---
 * * *
+
+03 - 04 September 2026: [Multimix 2026](https://www.mechanik.tu-darmstadt.de/forschung_mech/multimix_2026/MULTIMIX_2026.en.jsp) organised with M. ten Eikelder
+
 * * *
 
 Where we possibly could meet:

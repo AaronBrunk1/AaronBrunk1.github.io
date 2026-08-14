@@ -195,7 +195,7 @@ Links: [Preprint](https://arxiv.org/abs/2405.13936) & [Journal](https://doi.org/
 0. **Chemotaxis and Haptotaxis on Cellular Level**\
 with [Niklas Kolbe][niklas] and [Nikolas Sfakianakis][nikos]\
 HYP 16: Theory, Numerics and Applications of Hyperbolic Problem I (2018)\
-Links: [Preprint](https://arxiv.org/abs/2102.00771) & [Journal](https://doi.org/10.1007/978-3-319-91545-6_20)
+Links: [Preprint](https://arxiv.org/abs/1612.02345) & [Journal](https://doi.org/10.1007/978-3-319-91545-6_20)
 {: reversed="reversed"}
 
 # Theses:
