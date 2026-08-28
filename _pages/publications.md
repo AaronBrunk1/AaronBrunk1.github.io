@@ -24,6 +24,10 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 
 # Preprints:
 * * *
+0. **Generalised dissipative solutions for a non-isothermal phase-field
+  system: existence, weak-strong uniqueness, and long-time behaviour**\
+with [Marvin Fritz][marvin]\
+Links: [Preprint](https://arxiv.org/abs/2608.26297)
 0. **Surface-tension calibration for N-phase mixtures**\
 with [Marco F. P. ten Eikelder][marco]\
 Links: [Preprint](https://arxiv.org/abs/2606.14287)
