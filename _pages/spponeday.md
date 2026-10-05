@@ -12,6 +12,8 @@ classes: wide
 This one-day workshop aims to bridge mathematical theory, numerical analysis, and practical computation by bringing together foundational concepts and hands-on tools. We focus on the derivation of gradient flow formulations and the incompressible Navier-Stokes equations and subsequent time discretisation techniques, providing participants with a unified perspective on modern PDE modeling and simulation. 
 Complementing the theoretical sessions, practical tutorials on **Git** and **NGSolve** equip participants with essential skills for reproducible, collaborative, and efficient scientific computing. The workshop is designed to foster understanding, cross-disciplinary dialogue, and immediate applicability in research and teaching.
 
+The material of the hands-on sessions can be found at https://gitlab.rlp.net/deschuma/spp-workshop.git
+
 ## Date & Location
 - **Date:** 21-22 September 2026  
 - **Location:** Universität Regensburg, Germany
