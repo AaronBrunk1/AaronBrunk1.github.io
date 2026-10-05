@@ -27,7 +27,6 @@ url: "https://aaronbrunk1.github.io/"
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "default"
-minimal_mistakes_skin2: "dark"
 # Outputting
 permalink: /_pages/home/
 #paginate: 5 # amount of posts to show
