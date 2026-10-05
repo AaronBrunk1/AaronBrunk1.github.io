@@ -55,13 +55,14 @@ Bachelor/Master/PhD thesis:
 Current:
 0. Dennis Schumann PhD thesis on\
 **Structure-preserving approximations for phase-field models in powder bed fusion additive manufacturing**
+0. Chakir Laabdallaoui master thesis on\
+**Andwendung von Bregmandivergenzen in elliptischen und parabolischen Differentialgleichungen**
+
+Previous:
 0. Paula Schäfer master thesis on\
 **Strukturerhaltende Methoden für N-Phasen Cahn-Hilliard-Navier-Stokes-Systeme**
 0. Simon Schömer master thesis on\
 **Linear implizite und energiestabile Finite-Volumen-Methoden für die kompressiblen Navier-Stokes-Gleichungen**
-
-
-Previous:
 0. Dennis Schumann master thesis on\
 **Grenzprozess von diffusiven zu scharfen Oberflächenmodellen: Analytische und numerische Betrachtung**
 0. Garnik Arutyunyan master thesis on\
