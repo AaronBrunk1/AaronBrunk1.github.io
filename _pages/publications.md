@@ -217,15 +217,18 @@ Bachelor's Thesis, Johannes Gutenberg University Mainz (2015)
 0. **Existence of discrete solutions and optimal errors estimates for quasi-incompressible Navier–Stokes–Maxwell–Stefan systems** with [Ansgar Jüngel][ansgar] and [Mária Lukácová-Medvidová][maria]
 0. **Structure-preserving approximations for viscoelastic systems with phase-field dependent energy** with [Dennis Trautwein][dennisT]
 0. **Modeling and stable discretisations for Maxwell–Stefan  with quasi-incompressible, heat conducting fluids** with Patrick Farrell and [Mária Lukácová-Medvidová][maria]
-0. **Existence and weak-strong uniqueness for non-isothermal phase-field systems** with [Marvin Fritz][marvin]
-
+0. **Existence of weak solution for Cahn-Hilliard-Biot without regularisation** with [Marvin Fritz][marvin]
+0. **Weak-strong uniqueness for Cahn-Larche and Cahn-Hilliard-Biot system with phase-dependent elastic properties** with [Marvin Fritz][marvin]
+0. **Structure-preserving approximations for membrane-vesicle models with membrane-associated proteins** with [Marvin Fritz][marvin]
+0. **Structure preserving approximations for class II mixture modells and high-friction limits** with [Marco F. P. ten Eikelder][marco]
+0. **Hierachy of class II and class I models for partially viscoelastic mixtures**
 
 # To-Do list: 
 * * *
-0. **Relative energy estimates for non-isothermal phase-field systems including fluid flow**
+0. **Existen and relative energy estimates for non-isothermal phase-field systems including fluid flow**
 0. **Error estimates for an energy-stable FE discretisation for the Abels-Garcke-Grün model**
 0. **Comparison between the Abels-Garcke-Grün model and the quasi-incompressible Navier-Stokes-Cahn-Hilliard system**
 0. **Error estimate for a stable FV scheme for compressible Navier-Stokes**
 0. **Error estimate for stable FV scheme for cross-diffusion systems**
 0. **Stable approximations for non-isothermal viscoelastic rate-type fluids with stress diffusion**
-
+0. **Stable approximations for Maxwell-Stefan systems with with viscous forcing**
