@@ -17,3 +17,6 @@
 [christian]: https://homepage.univie.ac.at/christian.schmeiser/
 [diane]: https://sites.google.com/site/dianepeurichard/home
 [niklas]: https://nklb.gitlab.io/
+[boris]: https://borisandrews.github.io/
+[patrick]: https://pefarrell.org/
+[aaron]: https://mechmat.web.ox.ac.uk/people/aaron-baier-reinio
