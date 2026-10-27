@@ -25,7 +25,7 @@ My articles can also be tracked on [Google Scholar](https://scholar.google.com/c
 # Preprints:
 * * *
 0. **Structure-preserving discretisations for the quasi-incompressible, thermal Maxwell-Stefan equations**\
-with [Boris D. Andrews][boris], [Aaron Baier-Reinio][aaron], [Patrick E. Farrell][patrick],[Mária Lukácová-Medvidová][maria]\
+with [Boris D. Andrews][boris], [Aaron Baier-Reinio][aaron], [Patrick E. Farrell][patrick], [Mária Lukácová-Medvidová][maria]\
 Links: [Preprint](https://arxiv.org/abs/2610.35157)
 0. **Generalised dissipative solutions for a non-isothermal phase-field
   system: existence, weak-strong uniqueness, and long-time behaviour**\
